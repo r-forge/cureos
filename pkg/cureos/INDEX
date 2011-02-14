@@ -1,0 +1,2 @@
+pwm.scan                Search Sequence using Position Weight Matrices (PWMs).
+conserved.pwm.scan      Search in an Alignment for Conserved hits to PWMs.

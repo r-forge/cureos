@@ -1,0 +1,17 @@
+Package: cureos
+Version: 0.3
+Date: 2007-02-20
+Title: Cureos=Conserved Upstream Regulatory Elements in Orthologous Sequences. Collection of functions to search sequences using scoring matrices (PWMs, PSSMs).
+Author: Tim Beissbarth <beissbarth@wehi.edu.au>
+Maintainer: Tim Beissbarth <beissbarth@wehi.edu.au>
+Depends: R (>= 2.4)
+Description: This package implements several functions useful for
+  analyse and use Count/Frequency or Scoring matrices (i.e. PWMs 
+  PSSMs) such as used to search for motifs in DNA or Protein sequences, e.g.
+  transcription factor binding sites (TFBS). Its special focus is to search
+  for for Conserved Upstream Regulatory Elements (TFBSs) in Orthologous Sequences.
+  It also contains functions to visualize elements summarized in UCSC track format
+  (see genome.ucsc.edu) on sequence. It can be used to visualize results of chip-on-chip
+  experiments.
+License: GPL version 2 or newer
+URL: http://cureos.wehi.edu.au

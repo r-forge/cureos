@@ -1,0 +1,3551 @@
+VV JASPAR Core, Release 01-March-2006, Download site http://jaspar.cgb.ki.se/DOWNLOAD/MatrixDir
+XX
+//
+AC  MA0046
+XX
+ID  JV$TCF1
+XX
+NA  TCF1
+XX
+DE  TCF1
+XX
+BF  TCF1; Species: Vertebrates.
+XX
+P0      A      C      G      T
+00      5      0     14      2      G
+01      1      0     20      0      G
+02      1      0      0     20      T
+03      1      0      0     20      T
+04     20      0      0      1      A
+05     16      2      1      2      A
+06      1      0      0     20      T
+07      8      2      4      7      D
+08     14      0      1      6      A
+09      2      0      0     19      T
+10      0      4      0     17      T
+11     13      1      3      4      A
+12      8      8      3      2      M
+13      5     13      0      3      C
+XX
+CC  Total Information Content: 15.5481691262781.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 9047360.
+XX
+//
+AC  MA0062
+XX
+ID  JV$GABPA
+XX
+NA  GABPA
+XX
+DE  GABPA
+XX
+BF  SWISSPROT:Q06546; GABPA; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      5      1      1      0      A
+01      1      5      1      0      C
+02      1      6      0      0      C
+03      0      0      7      0      G
+04      0      0      7      0      G
+05      7      0      0      0      A
+06      7      0      0      0      A
+07      0      0      7      0      G
+08      3      1      1      2      W
+09      0      2      4      1      S
+XX
+CC  Total Information Content: 13.8895030261926.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 8383622.
+XX
+//
+AC  MA0098
+XX
+ID  JV$c-ETS
+XX
+NA  c-ETS
+XX
+DE  c-ETS
+XX
+BF  SWISSPROT:P13474; c-ETS; Species: Gallus gallus.
+XX
+P0      A      C      G      T
+00      4     16      4     16      Y
+01     17      0      0     23      W
+02      0      1      0     39      T
+03      0     39      1      0      C
+04      0     39      0      1      C
+05      5      3     17     15      K
+XX
+CC  Total Information Content: 7.07782163341168.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 1542566.
+XX
+//
+AC  MA0073
+XX
+ID  JV$RREB1
+XX
+NA  RREB1
+XX
+DE  RREB1
+XX
+BF  SWISSPROT:Q92766; RREB1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      3      8      0      0      C
+01      1     10      0      0      C
+02      3      8      0      0      C
+03      0     11      0      0      C
+04      7      4      0      0      M
+05      9      2      0      0      A
+06      8      3      0      0      A
+07      4      6      0      1      M
+08      0     11      0      0      C
+09     11      0      0      0      A
+10      4      7      0      0      M
+11      1     10      0      0      C
+12      3      8      0      0      C
+13      4      6      1      0      M
+14      2      9      0      0      C
+15      4      5      0      2      M
+16      4      5      1      1      M
+17      4      6      0      1      M
+18      1      7      3      0      C
+19      4      4      2      1      V
+XX
+CC  Total Information Content: 22.2782723704014.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8816445.
+XX
+//
+AC  MA0020
+XX
+ID  JP$Dof2
+XX
+NA  Dof2
+XX
+DE  Dof2
+XX
+BF  SWISSPROT:Q41800; Dof2; Species: Zea mays.
+XX
+P0      A      C      G      T
+00     21      0      0      0      A
+01     21      0      0      0      A
+02     21      0      0      0      A
+03      0      0     21      0      G
+04      3     14      2      2      C
+05      7      6      3      5      H
+XX
+CC  Total Information Content: 8.6241100995044.
+CC  Factor Class: ZN-FINGER, DOF.
+XX
+RX  PUBMED: 10074718.
+XX
+//
+AC  MA0048
+XX
+ID  JV$NHLH1
+XX
+NA  NHLH1
+XX
+DE  NHLH1
+XX
+BF  SWISSPROT:Q02575; NHLH1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     13     13     17     11      N
+01     13     39      2      0      C
+02      3      5     37      9      G
+03      1     53      0      0      C
+04     54      0      0      0      A
+05      1      1     52      0      G
+06      1     50      3      0      C
+07      1      1      0     52      T
+08      0      0     53      1      G
+09      3     37      8      6      C
+10      2      0     37     15      G
+11      5     17     12     20      B
+XX
+CC  Total Information Content: 14.1315572207903.
+CC  Factor Class: bHLH.
+XX
+RX  PUBMED: 8289804.
+XX
+//
+AC  MA0041
+XX
+ID  JV$Foxd3
+XX
+NA  Foxd3
+XX
+DE  Foxd3
+XX
+BF  SWISSPROT:Q63245; Foxd3; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00     11      3     26      7      G
+01     30      2      0     15      W
+02     24      1      0     22      W
+03      1      4      0     42      T
+04     12      0     34      1      G
+05      0      0      0     47      T
+06      1      0      0     46      T
+07      5      0     10     32      T
+08     14      0     21     12      D
+09      6      7      0     34      T
+10      1      2      4     40      T
+11      0     12      0     35      T
+XX
+CC  Total Information Content: 12.9448284802064.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 8139574.
+XX
+//
+AC  MA0082
+XX
+ID  JP$SQUA
+XX
+NA  SQUA
+XX
+DE  SQUA
+XX
+BF  EMBL:X63701; SQUA; Species: Antirrhinum majus.
+XX
+P0      A      C      G      T
+00     11     14      1      4      M
+01      0     22      0      8      C
+02     24      0      4      2      A
+03     16      2      1     11      W
+04     23      0      0      7      A
+05     17      0      0     13      W
+06     24      1      0      5      A
+07      8      0      1     21      T
+08     14      1     15      0      R
+09      1      1     28      0      G
+10     14      5      1     10      W
+11     25      5      0      0      A
+12     21      2      3      4      A
+13      7      5      8     10      N
+XX
+CC  Total Information Content: 12.3886856970394.
+CC  Factor Class: MADS.
+XX
+RX  PUBMED: 9826749.
+XX
+//
+AC  MA0075
+XX
+ID  JV$Prrx2
+XX
+NA  Prrx2
+XX
+DE  Prrx2
+XX
+BF  SWISSPROT:Q06348; Prrx2; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00     52      2      4      1      A
+01     59      0      0      0      A
+02      0      0      1     58      T
+03      0      0      0     59      T
+04     58      0      1      0      A
+XX
+CC  Total Information Content: 9.06306510239135.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 7901837.
+XX
+//
+AC  MA0121
+XX
+ID  JP$ARR10
+XX
+NA  ARR10
+XX
+DE  ARR10
+XX
+BF  SWISSPROT:O49397; ARR10; Species: Arabidopsis thaliana.
+XX
+P0      A      C      G      T
+00     14      1      0      0      A
+01      0      0     15      0      G
+02     14      0      1      0      A
+03      0      0      0     15      T
+04      4      6      0      5      H
+05      1      8      0      6      Y
+06      0      0      9      6      K
+07      3      6      4      2      V
+XX
+CC  Total Information Content: 9.59458248131567.
+CC  Factor Class: TRP-CLUSTER.
+XX
+RX  PUBMED: 12215502.
+XX
+//
+AC  MA0025
+XX
+ID  JV$NFIL3
+XX
+NA  NFIL3
+XX
+DE  NFIL3
+XX
+BF  EMBL:X64318; NFIL3; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1      0      0     22      T
+01      0      0      2     21      T
+02     22      0      0      1      A
+03      0      8      0     15      Y
+04      2      0     21      0      G
+05      0      0      0     23      T
+06     23      0      0      0      A
+07     22      0      1      0      A
+08      0     11      4      8      Y
+09      7      5      7      4      N
+10      5      5      3     10      H
+XX
+CC  Total Information Content: 14.1385069219678.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 1620116.
+XX
+//
+AC  MA0119
+XX
+ID  JV$Hox11-CTF1
+XX
+NA  Hox11-CTF1
+XX
+DE  Hox11-CTF1
+XX
+BF  SWISSPROT:P31314; Hox11-CTF1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      0      0     16      T
+01      0      0     16      0      G
+02      0      0     16      0      G
+03      0     16      0      0      C
+04     14      1      0      1      A
+05      2      8      5      1      S
+06      2      8      4      2      S
+07      7      1      5      3      R
+08      4      3      2      7      W
+09      0      0     16      0      G
+10      0     16      0      0      C
+11      0     16      0      0      C
+12     16      0      0      0      A
+13     14      0      1      1      A
+XX
+CC  Total Information Content: 19.6648726674762.
+CC  Factor Class: HOMEO/CAAT.
+XX
+RX  PUBMED: 10327073.
+XX
+//
+AC  MA0060
+XX
+ID  J"$NF-Y
+XX
+NA  NF-Y
+XX
+DE  NF-Y
+XX
+BF  NF-Y; Species: .
+XX
+P0      A      C      G      T
+00     34     37     27     18      V
+01     16     33     26     41      B
+02      7     51     25     33      Y
+03     58     14     41      3      R
+04     51      4     56      5      R
+05      0    116      0      0      C
+06      2    113      1      0      C
+07    112      0      1      3      A
+08    116      0      0      0      A
+09      0      1      0    115      T
+10     14     65     33      4      S
+11     66      6     42      2      R
+12     13     20     73     10      G
+13     39     43     22     12      V
+14     36      9     47     24      D
+15     25     35     29     27      N
+XX
+CC  Total Information Content: 12.9251245779655.
+CC  Factor Class: CAAT-BOX.
+XX
+RX  PUBMED: 9469818.
+XX
+//
+AC  MA0096
+XX
+ID  JP$bZIP910
+XX
+NA  bZIP910
+XX
+DE  bZIP910
+XX
+BF  EMBL:Y13675; bZIP910; Species: Antirrhinum majus.
+XX
+P0      A      C      G      T
+00     15     15      5      0      M
+01      0      0      0     35      T
+02      0      0     35      0      G
+03     35      0      0      0      A
+04      0     35      0      0      C
+05      0      0     35      0      G
+06      0      0      0     35      T
+XX
+CC  Total Information Content: 12.5511843642748.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 9680995.
+XX
+//
+AC  MA0122
+XX
+ID  JV$Bapx1
+XX
+NA  Bapx1
+XX
+DE  Bapx1
+XX
+BF  SWISSPROT:P97503; Bapx1; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      4      7      4      9      Y
+01      1      4      5     14      T
+02     13      1      7      3      R
+03     24      0      0      0      A
+04      0      0     24      0      G
+05      0      0      0     24      T
+06      6      0     18      0      G
+07      4      6     12      2      S
+08      9      7      5      3      V
+XX
+CC  Total Information Content: 8.54224977193481.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 12746429.
+XX
+//
+AC  MA0081
+XX
+ID  JV$SPIB
+XX
+NA  SPIB
+XX
+DE  SPIB
+XX
+BF  SWISSPROT:Q01892; SPIB; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     31      0      0     18      W
+01      4     14     29      2      G
+02     24     16      7      2      M
+03      2      0     47      0      G
+04      1      0     47      1      G
+05     48      0      0      1      A
+06     47      0      0      2      A
+XX
+CC  Total Information Content: 9.06007121381261.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 7624145.
+XX
+//
+AC  MA0105
+XX
+ID  JV$NFKB1
+XX
+NA  NFKB1
+XX
+DE  NFKB1
+XX
+BF  SWISSPROT:P19838; NFKB1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      0     18      0      G
+01      0      0     18      0      G
+02      0      0     18      0      G
+03      2      0     16      0      G
+04     11      1      6      0      R
+05      5      0      2     11      T
+06      0      5      2     11      T
+07      0     13      0      5      C
+08      0     17      0      1      C
+09      0     18      0      0      C
+10      1     15      1      1      C
+XX
+CC  Total Information Content: 15.6269629573419.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 1406630.
+XX
+//
+AC  MA0069
+XX
+ID  JV$Pax6
+XX
+NA  Pax6
+XX
+DE  Pax6
+XX
+BF  SWISSPROT:P26367; Pax6; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      2      4      4     33      T
+01      2      2      0     39      T
+02      4     26      1     12      C
+03     39      2      1      1      A
+04      3     34      1      5      C
+05      1      0     41      1      G
+06      1     37      4      1      C
+07     21      2      2     18      W
+08      1      4      1     37      T
+09      2     14     25      2      S
+10     36      0      6      1      A
+11     11     11     13      8      N
+12      1      5      3     34      T
+13      1      0     17     25      K
+XX
+CC  Total Information Content: 13.7977195202109.
+CC  Factor Class: PAIRED.
+XX
+RX  PUBMED: 8132558.
+XX
+//
+AC  MA0097
+XX
+ID  JP$bZIP911
+XX
+NA  bZIP911
+XX
+DE  bZIP911
+XX
+BF  EMBL:Y13676; bZIP911; Species: Antirrhinum majus.
+XX
+P0      A      C      G      T
+00      1      0     31      1      G
+01     17      0     16      0      R
+02      0      0      0     33      T
+03      0      0     33      0      G
+04     33      0      0      0      A
+05      0     33      0      0      C
+06      0      0     33      0      G
+07      0      0      0     33      T
+08      0      1     32      0      G
+09      1      0     22     10      G
+10     11     20      1      1      M
+11      1     32      0      0      C
+XX
+CC  Total Information Content: 19.8816971076341.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 9680995.
+XX
+//
+AC  MA0083
+XX
+ID  JV$SRF
+XX
+NA  SRF
+XX
+DE  SRF
+XX
+BF  SWISSPROT:P11831; SRF; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      2      1     39      4      G
+01      9     33      2      2      C
+02      0     45      1      0      C
+03      1     45      0      0      C
+04     32      1      0     13      A
+05      3      1      0     42      T
+06     46      0      0      0      A
+07      1      0      0     45      T
+08     43      0      0      3      A
+09     15      1      0     30      W
+10      2      0     44      0      G
+11      2      1     43      0      G
+XX
+CC  Total Information Content: 17.9647716467558.
+CC  Factor Class: MADS.
+XX
+RX  PUBMED: 2243767.
+XX
+//
+AC  MA0080
+XX
+ID  JV$SPI1
+XX
+NA  SPI1
+XX
+DE  SPI1
+XX
+BF  SWISSPROT:P17947; SPI1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     14     21     19      3      V
+01      4      2     48      3      G
+02      3      0     52      2      G
+03     56      1      0      0      A
+04     56      0      0      1      A
+05      3     18     34      2      S
+XX
+CC  Total Information Content: 7.21720396462768.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 7624145.
+XX
+//
+AC  MA0044
+XX
+ID  JP$HMG-1
+XX
+NA  HMG-1
+XX
+DE  HMG-1
+XX
+BF  EMBL:X76774; HMG-1; Species: Pisum sativum.
+XX
+P0      A      C      G      T
+00      0      5      8      0      S
+01      0      0      3     10      T
+02      0      4      0      9      T
+03      0      2     10      1      G
+04      0      1      0     12      T
+05      6      1      3      3      D
+06      3      5      0      5      H
+07      0      1      2     10      T
+08      0      8      1      4      Y
+XX
+CC  Total Information Content: 8.43180902169531.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 9161031.
+XX
+//
+AC  MA0068
+XX
+ID  JV$Pax4
+XX
+NA  Pax4
+XX
+DE  Pax4
+XX
+BF  SWISSPROT:P32115; Pax4; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      7      2     11      1      R
+01     20      0      1      0      A
+02     16      2      1      2      A
+03     11      1      1      8      W
+04     13      1      3      4      A
+05     11      3      1      6      W
+06      6      1      2     12      W
+07      9      1      1     10      W
+08      5      3      6      7      D
+09      5     11      1      4      C
+10      6     11      4      0      M
+11      7      7      5      2      V
+12      8      7      2      4      H
+13      6      5      1      9      H
+14     10      5      4      2      M
+15      4      8      4      5      N
+16      3      6      4      8      B
+17      7      8      3      3      M
+18      4      9      3      5      Y
+19      9      6      2      4      M
+20      5      7      5      4      N
+21      5      6      2      8      H
+22      7     11      0      3      M
+23      6      9      1      5      H
+24      3     12      2      4      C
+25      7      9      2      3      M
+26      3     12      2      4      C
+27      1     11      3      6      Y
+28      6     11      1      3      M
+29      3     13      2      3      C
+XX
+CC  Total Information Content: 11.0044478832836.
+CC  Factor Class: PAIRED-HOMEO.
+XX
+RX  PUBMED: 10567552.
+XX
+//
+AC  MA0051
+XX
+ID  JV$IRF2
+XX
+NA  IRF2
+XX
+DE  IRF2
+XX
+BF  SWISSPROT:P14316; IRF2; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      4      7      1      S
+01      2      0     10      0      G
+02     12      0      0      0      A
+03     11      0      0      1      A
+04     12      0      0      0      A
+05      2      0     10      0      G
+06      0      6      0      6      Y
+07      0      0     12      0      G
+08     12      0      0      0      A
+09     12      0      0      0      A
+10     12      0      0      0      A
+11      0      6      6      0      S
+12      0      7      2      3      C
+13      5      2      3      2      R
+14      6      0      2      4      W
+15      6      1      1      4      W
+16      5      2      1      4      W
+17      3      6      1      2      M
+XX
+CC  Total Information Content: 21.1344205827808.
+CC  Factor Class: TRP-CLUSTER.
+XX
+RX  PUBMED: 7687740.
+XX
+//
+AC  MA0107
+XX
+ID  JV$RELA
+XX
+NA  RELA
+XX
+DE  RELA
+XX
+BF  SWISSPROT:Q04206; RELA; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      4     11      3      G
+01      0      0     17      1      G
+02      0      0     18      0      G
+03     11      0      7      0      R
+04     10      3      4      1      A
+05      2      0      0     16      T
+06      0      0      0     18      T
+07      0      2      0     16      T
+08      0     18      0      0      C
+09      0     18      0      0      C
+XX
+CC  Total Information Content: 14.7568335646172.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 1406630.
+XX
+//
+AC  MA0087
+XX
+ID  JV$Sox5
+XX
+NA  Sox5
+XX
+DE  Sox5
+XX
+BF  SWISSPROT:P35710; Sox5; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      8      4      3      8      H
+01     21      0      1      1      A
+02     22      0      1      0      A
+03      0     22      0      1      C
+04     23      0      0      0      A
+05     22      1      0      0      A
+06      0      0      0     23      T
+XX
+CC  Total Information Content: 10.8307137071314.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 1396566.
+XX
+//
+AC  MA0023
+XX
+ID  JI$Dorsal_2
+XX
+NA  Dorsal_2
+XX
+DE  Dorsal_2
+XX
+BF  FLYBASE:FBgn000046; Dorsal_2; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      0      1      7      1      G
+01      0      0      7      2      G
+02      0      0      9      0      G
+03      0      0      8      1      G
+04      4      1      0      4      W
+05      2      1      0      6      T
+06      0      0      0      9      T
+07      0      1      0      8      T
+08      0      9      0      0      C
+09      1      8      0      0      C
+XX
+CC  Total Information Content: 14.1230520913631.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 582412.
+XX
+//
+AC  MA0070
+XX
+ID  JV$Pbx
+XX
+NA  Pbx
+XX
+DE  Pbx
+XX
+BF  SWISSPROT:P40424; Pbx; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      5      6      2      5      H
+01      3      9      3      3      C
+02     16      1      1      0      A
+03      1      1      0     16      T
+04      0     18      0      0      C
+05     17      1      0      0      A
+06     17      0      0      1      A
+07      0      0      1     17      T
+08      0     18      0      0      C
+09     16      1      0      1      A
+10     12      0      1      5      A
+11      8      2      2      6      W
+XX
+CC  Total Information Content: 14.6408952002356.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 7910944.
+XX
+//
+AC  MA0104
+XX
+ID  JV$Mycn
+XX
+NA  Mycn
+XX
+DE  Mycn
+XX
+BF  SWISSPROT:P03966; Mycn; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      0     31      0      0      C
+01     29      0      0      2      A
+02      0     30      0      1      C
+03      2      1     28      0      G
+04      0      3      0     28      T
+05      0      0     31      0      G
+XX
+CC  Total Information Content: 10.4430512056894.
+CC  Factor Class: bHLH-ZIP.
+XX
+RX  PUBMED: 1594445.
+XX
+//
+AC  MA0110
+XX
+ID  JP$ATHB5
+XX
+NA  ATHB5
+XX
+DE  ATHB5
+XX
+BF  Genbank:11762265; ATHB5; Species: Arabidopsis thaliana.
+XX
+P0      A      C      G      T
+00      1     30      4      2      C
+01     30      6      0      1      A
+02     37      0      0      0      A
+03      0      0      0     37      T
+04      1      0     15     21      K
+05     37      0      0      0      A
+06      0      0      0     37      T
+07      0      0      0     37      T
+08      3      0     34      0      G
+XX
+CC  Total Information Content: 14.6890476093219.
+CC  Factor Class: HOMEO-ZIP.
+XX
+RX  PUBMED: 11247607.
+XX
+//
+AC  MA0054
+XX
+ID  JP$MYB.ph3
+XX
+NA  MYB.ph3
+XX
+DE  MYB.ph3
+XX
+BF  SWISSPROT:Q02994; MYB.ph3; Species: Petunia hybrida.
+XX
+P0      A      C      G      T
+00     19      3      2     46      T
+01     64      1      2      3      A
+02     63      0      2      5      A
+03      4     62      3      1      C
+04     10     27     16     17      B
+05     10      2     53      5      G
+06     13      8      0     49      T
+07      3     17      1     49      T
+08     28      1      0     41      W
+XX
+CC  Total Information Content: 8.56143865224759.
+CC  Factor Class: TRP-CLUSTER.
+XX
+RX  PUBMED: 7737128.
+XX
+//
+AC  MA0050
+XX
+ID  JV$IRF1
+XX
+NA  IRF1
+XX
+DE  IRF1
+XX
+BF  SWISSPROT:P10914; IRF1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      6      4     10      0      R
+01     19      0      1      0      A
+02     19      0      0      1      A
+03     20      0      0      0      A
+04      5      3     11      1      G
+05      0     10      0     10      Y
+06      1      1     18      0      G
+07     20      0      0      0      A
+08     19      1      0      0      A
+09     20      0      0      0      A
+10      1     13      6      0      C
+11      1     13      1      5      C
+XX
+CC  Total Information Content: 16.0080101497756.
+CC  Factor Class: TRP-CLUSTER.
+XX
+RX  PUBMED: 7687740.
+XX
+//
+AC  MA0079
+XX
+ID  JV$SP1
+XX
+NA  SP1
+XX
+DE  SP1
+XX
+BF  SWISSPROT:P08047; SP1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1      1      4      2      K
+01      2      1      4      1      R
+02      0      0      8      0      G
+03      0      0      8      0      G
+04      0      5      2      1      C
+05      2      0      4      2      D
+06      0      1      5      2      G
+07      0      0      6      2      G
+08      1      1      6      0      G
+09      2      0      0      6      T
+XX
+CC  Total Information Content: 9.7185757452318.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 2192357.
+XX
+//
+AC  MA0058
+XX
+ID  JV$MAX
+XX
+NA  MAX
+XX
+DE  MAX
+XX
+BF  SWISSPROT:P25912; MAX; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      6      1      6      4      D
+01     11      1      5      0      A
+02      5      7      1      4      H
+03      0     17      0      0      C
+04     16      1      0      0      A
+05      0     17      0      0      C
+06      1      0     16      0      G
+07      0      0      0     17      T
+08      0      0     17      0      G
+09      6      3      5      3      N
+XX
+CC  Total Information Content: 12.6854143466175.
+CC  Factor Class: bHLH-ZIP.
+XX
+RX  PUBMED: 8265351.
+XX
+//
+AC  MA0077
+XX
+ID  JV$SOX9
+XX
+NA  SOX9
+XX
+DE  SOX9
+XX
+BF  SWISSPROT:P48436; SOX9; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     24      7     31     14      R
+01     54      6      7      9      A
+02     59      4      0     13      A
+03      0     72      2      2      C
+04     65      4      0      7      A
+05     71      2      1      2      A
+06      4      0      1     71      T
+07     24      6     38      8      R
+08      9      9     55      3      G
+XX
+CC  Total Information Content: 9.07881462267179.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 9973626.
+XX
+//
+AC  MA0040
+XX
+ID  JV$Foxq1
+XX
+NA  Foxq1
+XX
+DE  Foxq1
+XX
+BF  SWISSPROT:Q63244; Foxq1; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00      4      4      3      7      H
+01     13      1      3      1      A
+02      5      2      0     11      T
+03      3      0      0     15      T
+04      0      0     18      0      G
+05      0      0      0     18      T
+06      0      0      0     18      T
+07      0      0      0     18      T
+08     17      0      1      0      A
+09      0      1      4     13      T
+10      6      0      3      9      W
+XX
+CC  Total Information Content: 14.0702573602851.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 8139574.
+XX
+//
+AC  MA0093
+XX
+ID  JV$USF1
+XX
+NA  USF1
+XX
+DE  USF1
+XX
+BF  SWISSPROT:P22415; USF1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0     30      0      0      C
+01     30      0      0      0      A
+02      0     28      0      2      C
+03      1      0     29      0      G
+04      0      1      1     28      T
+05      0      0     30      0      G
+06      9      2     14      5      R
+XX
+CC  Total Information Content: 11.2902795805709.
+CC  Factor Class: bHLH-ZIP.
+XX
+RX  PUBMED: 8052536.
+XX
+//
+AC  MA0021
+XX
+ID  JP$Dof3
+XX
+NA  Dof3
+XX
+DE  Dof3
+XX
+BF  SWISSPROT:Q41801; Dof3; Species: Zea mays.
+XX
+P0      A      C      G      T
+00     21      0      0      0      A
+01     21      0      0      0      A
+02     21      0      0      0      A
+03      0      0     21      0      G
+04      0     10      3      8      Y
+05      6      6      9      0      V
+XX
+CC  Total Information Content: 9.00217674837923.
+CC  Factor Class: ZN-FINGER, DOF.
+XX
+RX  PUBMED: 10074718.
+XX
+//
+AC  MA0013
+XX
+ID  JI$Broad-complex_4
+XX
+NA  Broad-complex_4
+XX
+DE  Broad-complex_4
+XX
+BF  EMBL:U51585; Broad-complex_4; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      1      1      0      4      T
+01      4      0      0      2      W
+02      2      0      4      0      R
+03      1      0      0      5      T
+04      5      0      1      0      A
+05      6      0      0      0      A
+06      5      0      1      0      A
+07      1      3      1      1      C
+08      3      0      1      2      W
+09      5      0      0      1      A
+10      3      1      0      2      W
+XX
+CC  Total Information Content: 11.6009123934947.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8062827.
+XX
+//
+AC  MA0018
+XX
+ID  JV$CREB1
+XX
+NA  CREB1
+XX
+DE  CREB1
+XX
+BF  SWISSPROT:P16220; CREB1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      7      5      4      B
+01      3      5      4      4      N
+02      0      3      6      7      K
+03      2      3     11      0      G
+04      5      1      7      3      R
+05      0      0      0     16      T
+06      0      0     15      1      G
+07     16      0      0      0      A
+08      0     16      0      0      C
+09      0      0     16      0      G
+10      1      5      0     10      Y
+11      5      6      3      2      V
+XX
+CC  Total Information Content: 12.6045644339298.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 8264613.
+XX
+//
+AC  MA0102
+XX
+ID  JV$cEBP
+XX
+NA  cEBP
+XX
+DE  cEBP
+XX
+BF  cEBP; Species: .
+XX
+P0      A      C      G      T
+00      3      0      0     15      T
+01      1      1      4     12      T
+02      4      1      6      7      D
+03      2      9      2      5      Y
+04      4      2     10      2      G
+05      2     15      0      1      C
+06     18      0      0      0      A
+07     18      0      0      0      A
+08      0      6      2     10      Y
+09      5      6      5      2      V
+10      2      5      3      8      Y
+11      1      6      5      6      B
+XX
+CC  Total Information Content: 9.18699952114279.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 1672737.
+XX
+//
+AC  MA0002
+XX
+ID  JV$RUNX1
+XX
+NA  RUNX1
+XX
+DE  RUNX1
+XX
+BF  SWISSPROT:Q01196; RUNX1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     15      7      1     15      W
+01      4      9      1     24      T
+02      3      2      0     33      T
+03      0      0     37      1      G
+04      1     14      0     23      Y
+05      0      0     38      0      G
+06      0      0     38      0      G
+07      1      1      1     35      T
+08      5     14      1     18      Y
+XX
+CC  Total Information Content: 10.9023325170161.
+CC  Factor Class: RUNT.
+XX
+RX  PUBMED: 8413232.
+XX
+//
+AC  MA0001
+XX
+ID  JP$AGL3
+XX
+NA  AGL3
+XX
+DE  AGL3
+XX
+BF  SWISSPROT:P29383; AGL3; Species: Arabidopsis thaliana.
+XX
+P0      A      C      G      T
+00      0     94      1      2      C
+01      3     75      0     19      C
+02     79      4      3     11      A
+03     40      3      4     50      W
+04     66      1      1     29      A
+05     48      2      0     47      W
+06     65      5      5     22      A
+07     11      2      3     81      T
+08     65      3     28      1      A
+09      0      3     88      6      G
+XX
+CC  Total Information Content: 10.5882147138157.
+CC  Factor Class: MADS.
+XX
+RX  PUBMED: 7632923.
+XX
+//
+AC  MA0016
+XX
+ID  JI$CFI-USP
+XX
+NA  CFI-USP
+XX
+DE  CFI-USP
+XX
+BF  FLYBASE:FBgn000396; CFI-USP; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      0      1     37      0      G
+01      1      0     36      1      G
+02      0      0     38      0      G
+03      0      0     38      0      G
+04      0      0      0     38      T
+05      0     36      1      1      C
+06     35      0      3      0      A
+07      5     25      3      5      C
+08      5      8     22      3      G
+09      6     10     16      6      S
+XX
+CC  Total Information Content: 13.7920230760767.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 1280827.
+XX
+//
+AC  MA0055
+XX
+ID  JV$Myf
+XX
+NA  Myf
+XX
+DE  Myf
+XX
+BF  Myf; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      7      8      1      0      M
+01      9      0      7      0      R
+02      4      2     10      0      G
+03      0     15      1      0      C
+04     16      0      0      0      A
+05      7      0      9      0      R
+06      0     15      1      0      C
+07      6      0      0     10      W
+08      0      0     16      0      G
+09      0     10      6      0      S
+10      6      0      0     10      W
+11      0      0     16      0      G
+XX
+CC  Total Information Content: 15.9141418791189.
+CC  Factor Class: bHLH.
+XX
+RX  PUBMED: 9571041.
+XX
+//
+AC  MA0003
+XX
+ID  JV$TFAP2A
+XX
+NA  TFAP2A
+XX
+DE  TFAP2A
+XX
+BF  SWISSPROT:P05549; TFAP2A; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      0    185      0      G
+01      0    185      0      0      C
+02      0    185      0      0      C
+03     22     71     46     46      B
+04     19     57     61     48      B
+05     55     44     67     19      V
+06     53     30     91     11      R
+07     19     16    137     13      G
+08      9     78     79     19      S
+XX
+CC  Total Information Content: 7.81209200796467.
+CC  Factor Class: AP2.
+XX
+RX  PUBMED: 497269.
+XX
+//
+AC  MA0090
+XX
+ID  JV$TEAD
+XX
+NA  TEAD
+XX
+DE  TEAD
+XX
+BF  SWISSPROT:P28347; TEAD; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1      6      1      4      Y
+01      9      0      3      0      A
+02      0     12      0      0      C
+03     12      0      0      0      A
+04      0      0      0     12      T
+05      0      0      0     12      T
+06      0     12      0      0      C
+07      0     11      0      1      C
+08      5      0      0      7      W
+09      1      7      4      0      S
+10      2      4      3      3      N
+11      0      2      8      2      G
+XX
+CC  Total Information Content: 15.6777724709562.
+CC  Factor Class: TEA.
+XX
+RX  PUBMED: 9571041.
+XX
+//
+AC  MA0030
+XX
+ID  JV$FOXF2
+XX
+NA  FOXF2
+XX
+DE  FOXF2
+XX
+BF  SWISSPROT:Q9UQ85; FOXF2; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1     10      7      9      B
+01     10      7      5      5      N
+02     17      4      2      4      A
+03     13      5      5      5      A
+04      3     11      8      0      S
+05      7      0     20      0      G
+06      0      0      0     27      T
+07     27      0      0      0      A
+08     27      0      0      0      A
+09     27      0      0      0      A
+10      0     25      0      2      C
+11     27      0      0      0      A
+12     16      4      2      5      A
+13      7      4      6     10      D
+XX
+CC  Total Information Content: 14.8237690744435.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 7957066.
+XX
+//
+AC  MA0066
+XX
+ID  JV$PPARG
+XX
+NA  PPARG
+XX
+DE  PPARG
+XX
+BF  SWISSPROT:P37231; PPARG; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      3      8     14      3      S
+01      3      0      0     25      T
+02     19      0      9      0      A
+03      0      1     27      0      G
+04      1      0     26      1      G
+05      0      1      4     23      T
+06      2     23      3      0      C
+07     26      1      0      1      A
+08      5     15      4      4      C
+09      5      7     10      6      N
+10      4      2     18      4      G
+11      1      0      2     25      T
+12      2      5     20      1      G
+13     22      5      0      1      A
+14      1     27      0      0      C
+15      0     25      0      3      C
+16      3     12      0     13      Y
+17     22      5      0      1      A
+18      5     12      6      5      S
+19      7      0      1     20      T
+XX
+CC  Total Information Content: 20.3650558402138.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 11139380.
+XX
+//
+AC  MA0053
+XX
+ID  JP$MNB1A
+XX
+NA  MNB1A
+XX
+DE  MNB1A
+XX
+BF  SWISSPROT:P38564; MNB1A; Species: Zea mays.
+XX
+P0      A      C      G      T
+00     15      0      0      0      A
+01     15      0      0      0      A
+02     15      0      0      0      A
+03      0      0     15      0      G
+04      3      9      0      3      C
+XX
+CC  Total Information Content: 8.62904940554533.
+CC  Factor Class: ZN-FINGER, DOF.
+XX
+RX  PUBMED: 10074718.
+XX
+//
+AC  MA0045
+XX
+ID  JP$HMG-IY
+XX
+NA  HMG-IY
+XX
+DE  HMG-IY
+XX
+BF  EMBL:X99373; HMG-IY; Species: Pisum sativum.
+XX
+P0      A      C      G      T
+00      3      5      4      2      V
+01      7      0      3      4      W
+02      9      1      1      3      A
+03      3      6      4      1      V
+04     11      0      3      0      A
+05     11      0      2      1      A
+06     11      0      2      1      A
+07      3      3      2      6      H
+08      4      1      8      1      R
+09      3      4      6      1      V
+10      8      5      1      0      M
+11      8      1      4      1      R
+12      9      0      2      3      A
+13      9      5      0      0      M
+14     11      0      3      0      A
+15      2      7      0      5      Y
+XX
+CC  Total Information Content: 10.3410853256607.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 9161031.
+XX
+//
+AC  MA0106
+XX
+ID  JV$TP53
+XX
+NA  TP53
+XX
+DE  TP53
+XX
+BF  SWISSPROT:P04637; TP53; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      5      8      2      2      M
+01      3      7      6      1      S
+02      4      0     13      0      G
+03      5      0     12      0      G
+04     13      0      4      0      A
+05      0     17      0      0      C
+06     17      0      0      0      A
+07      0      0      0     17      T
+08      0      0     17      0      G
+09      0     11      0      6      Y
+10      0     16      0      1      C
+11      0     16      0      1      C
+12      1      0     15      1      G
+13      1      0     14      2      G
+14      4      0     13      0      G
+15      1     14      2      0      C
+16     15      0      0      2      A
+17      2      0      0     15      T
+18      1      1     14      1      G
+19      1      2      1     13      T
+XX
+CC  Total Information Content: 26.2394386341062.
+CC  Factor Class: P53.
+XX
+RX  PUBMED: 1588974.
+XX
+//
+AC  MA0067
+XX
+ID  JV$Pax2
+XX
+NA  Pax2
+XX
+DE  Pax2
+XX
+BF  SWISSPROT:P32114; Pax2; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00     10      7      5      9      N
+01      7      1     21      2      G
+02      3      2      0     26      T
+03      0     28      1      2      C
+04     26      1      3      1      A
+05      2     17      1     11      Y
+06      2      0     19     10      K
+07      1     11     11      8      B
+XX
+CC  Total Information Content: 6.20567063978618.
+CC  Factor Class: PAIRED.
+XX
+RX  PUBMED: 8132558.
+XX
+//
+AC  MA0005
+XX
+ID  JP$Agamous
+XX
+NA  Agamous
+XX
+DE  Agamous
+XX
+BF  SWISSPROT:P17839; Agamous; Species: Arabidopsis thaliana.
+XX
+P0      A      C      G      T
+00      0     87      2      1      C
+01      2     86      0      2      C
+02     38      9      7     36      W
+03     61      5      2     22      A
+04     73      1      1     15      A
+05     31      3      4     52      W
+06     23     16     17     34      D
+07     20     13     26     31      D
+08     22      0     64      4      G
+09      1      0     82      7      G
+10     27     25      9     29      H
+XX
+CC  Total Information Content: 9.09439842911724.
+CC  Factor Class: MADS.
+XX
+RX  PUBMED: 7901838.
+XX
+//
+AC  MA0116
+XX
+ID  JV$Roaz
+XX
+NA  Roaz
+XX
+DE  Roaz
+XX
+BF  SWISSPROT:O08961; Roaz; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00      7      4     22      0      G
+01      0     16     17      0      S
+02     16     17      0      0      M
+03     17     16      0      0      M
+04      0     33      0      0      C
+05      0     33      0      0      C
+06      1     17      0     15      Y
+07     24      0      0      9      A
+08     13      0     16      4      R
+09      0      0     33      0      G
+10      0      0     33      0      G
+11      0      0     17     16      K
+12      0      0     16     17      K
+13      0      8     16      9      B
+14     11     22      0      0      M
+XX
+CC  Total Information Content: 17.9252482810031.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 9774661.
+XX
+//
+AC  MA0094
+XX
+ID  JI$Ubx
+XX
+NA  Ubx
+XX
+DE  Ubx
+XX
+BF  SWISSPROT:P02834; Ubx; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      3      0      0     85      T
+01     72      4      3      9      A
+02     79      1      6      2      A
+03      1      5      4     78      T
+XX
+CC  Total Information Content: 5.57649394986978.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 1673656.
+XX
+//
+AC  MA0010
+XX
+ID  JI$Broad-complex_1
+XX
+NA  Broad-complex_1
+XX
+DE  Broad-complex_1
+XX
+BF  EMBL:X54663; Broad-complex_1; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      3      1      4      1      R
+01      1      1      1      6      T
+02      5      2      1      1      A
+03      7      0      1      1      A
+04      3      0      0      6      W
+05      6      0      0      3      W
+06      4      1      4      0      R
+07      7      0      1      1      A
+08      1      8      0      0      C
+09      9      0      0      0      A
+10      8      0      1      0      A
+11      5      0      3      1      R
+12      4      0      0      5      W
+13      2      3      2      2      N
+XX
+CC  Total Information Content: 12.6171586319072.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8062827.
+XX
+//
+AC  MA0103
+XX
+ID  JV$deltaEF1
+XX
+NA  deltaEF1
+XX
+DE  deltaEF1
+XX
+BF  SWISSPROT:P36197; deltaEF1; Species: Gallus gallus.
+XX
+P0      A      C      G      T
+00      1     34      1      5      C
+01     38      0      2      1      A
+02      0     40      1      0      C
+03      0     38      3      0      C
+04      0      1      0     40      T
+05     10      1     16     14      D
+XX
+CC  Total Information Content: 8.30486487593768.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8065305.
+XX
+//
+AC  MA0088
+XX
+ID  JV$Staf
+XX
+NA  Staf
+XX
+DE  Staf
+XX
+BF  SWISSPROT:Q91853; Staf; Species: Xenupus laevis.
+XX
+P0      A      C      G      T
+00      0      3      4      3      B
+01      6      2      1      1      A
+02      2      3      1      4      H
+03      0      3      2      5      Y
+04      2      1      0      7      T
+05      1      7      0      2      C
+06      0     10      0      0      C
+07      0     10      0      0      C
+08      9      1      0      0      A
+09      0      1      4      5      K
+10      4      4      2      0      V
+11      6      2      2      0      A
+12      0      0      1      9      T
+13      0      1      6      3      K
+14      0     10      0      0      C
+15      4      5      0      1      M
+16      3      1      1      5      W
+17      2      3      0      5      Y
+18      1      1      7      1      G
+19      3      6      1      0      M
+XX
+CC  Total Information Content: 17.5411729665119.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 9009278.
+XX
+//
+AC  MA0078
+XX
+ID  JV$Sox17
+XX
+NA  Sox17
+XX
+DE  Sox17
+XX
+BF  SWISSPROT:Q61473; Sox17; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      7      9      6      9      N
+01      8      8      4     11      H
+02      3     18      1      9      Y
+03     30      0      0      1      A
+04      0      1      0     30      T
+05      0      0      0     31      T
+06      0      0     31      0      G
+07      0      0      2     29      T
+08      0     17     10      4      S
+XX
+CC  Total Information Content: 10.5018372361999.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 8636240.
+XX
+//
+AC  MA0063
+XX
+ID  JV$Nkx2-5
+XX
+NA  Nkx2-5
+XX
+DE  Nkx2-5
+XX
+BF  SWISSPROT:P42582; Nkx2-5; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      7      0      1      9      W
+01      0      4      0     13      T
+02     17      0      0      0      A
+03     17      0      0      0      A
+04      0      0      7     10      K
+05      4      2      0     11      T
+06      2      1     11      3      G
+XX
+CC  Total Information Content: 8.26972545955295.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 7797561.
+XX
+//
+AC  MA0052
+XX
+ID  JV$MEF2A
+XX
+NA  MEF2A
+XX
+DE  MEF2A
+XX
+BF  EMBL:X63381; MEF2A; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1     50      0      7      C
+01      0      0      0     58      T
+02     57      1      0      0      A
+03      2      1      0     55      T
+04      9      0      0     49      T
+05      6      0      0     52      T
+06     37      0      0     21      W
+07      2      0      0     56      T
+08     56      0      2      0      A
+09      6      0     50      2      G
+XX
+CC  Total Information Content: 15.7090560936245.
+CC  Factor Class: MADS.
+XX
+RX  PUBMED: 1748287.
+XX
+//
+AC  MA0111
+XX
+ID  JV$Spz1
+XX
+NA  Spz1
+XX
+DE  Spz1
+XX
+BF  Genbank:AAK15458; Spz1; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      9      0      3      0      A
+01      0      2      9      1      G
+02      2      0     10      0      G
+03      0      0     11      1      G
+04      1      0      1     10      T
+05      8      0      0      4      W
+06      6      0      2      4      W
+07      1      9      2      0      C
+08     10      0      2      0      A
+09      0      1      9      2      G
+10      2      8      2      0      C
+XX
+CC  Total Information Content: 11.9065419262377.
+CC  Factor Class: bHLH-ZIP.
+XX
+RX  PUBMED: 11165476.
+XX
+//
+AC  MA0035
+XX
+ID  JV$Gata1
+XX
+NA  Gata1
+XX
+DE  Gata1
+XX
+BF  SWISSPROT:P17679; Gata1; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00     13     14     15     11      N
+01      0      0     53      0      G
+02     50      2      0      1      A
+03      1      0      1     51      T
+04     13      6     25      9      R
+05      6     16     22      9      S
+XX
+CC  Total Information Content: 5.73662622978588.
+CC  Factor Class: ZN-FINGER, GATA.
+XX
+RX  PUBMED: 8321207.
+XX
+//
+AC  MA0006
+XX
+ID  JV$Arnt-Ahr
+XX
+NA  Arnt-Ahr
+XX
+DE  Arnt-Ahr
+XX
+BF  SWISSPROT:P30561; Arnt-Ahr; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      3      8      2     11      Y
+01      0      0     23      1      G
+02      0     23      0      1      C
+03      0      0     23      1      G
+04      0      0      0     24      T
+05      0      0     24      0      G
+XX
+CC  Total Information Content: 9.53241709191153.
+CC  Factor Class: bHLH.
+XX
+RX  PUBMED: 7592839.
+XX
+//
+AC  MA0011
+XX
+ID  JI$Broad-complex_2
+XX
+NA  Broad-complex_2
+XX
+DE  Broad-complex_2
+XX
+BF  EMBL:X54665; Broad-complex_2; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      3      1      1      7      T
+01      5      2      1      4      W
+02      0     10      0      2      C
+03      0      1      0     11      T
+04     12      0      0      0      A
+05      1      1      2      8      T
+06      2      0      1      9      T
+07      1      2      1      8      T
+XX
+CC  Total Information Content: 7.72345967810759.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8062827.
+XX
+//
+AC  MA0115
+XX
+ID  JV$NR1H2-RXR
+XX
+NA  NR1H2-RXR
+XX
+DE  NR1H2-RXR
+XX
+BF  SWISSPPROT:P55055; NR1H2-RXR; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     17      5      0      3      A
+01     17      1      5      2      A
+02     20      0      5      0      A
+03      0      0     25      0      G
+04      0      0     24      1      G
+05      0      0      0     25      T
+06      0     25      0      0      C
+07     25      0      0      0      A
+08     24      0      0      1      A
+09     25      0      0      0      A
+10      0      0     25      0      G
+11      0      0     25      0      G
+12      0      0      0     25      T
+13      0     25      0      0      C
+14     25      0      0      0      A
+15     20      1      2      2      A
+16      0     15      6      4      C
+XX
+CC  Total Information Content: 27.8780468034389.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 10187832.
+XX
+//
+AC  MA0056
+XX
+ID  JV$ZNF42_1-4
+XX
+NA  ZNF42_1-4
+XX
+DE  ZNF42_1-4
+XX
+BF  SWISSPROT:P28698; ZNF42_1-4; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      3      5      4      8      B
+01      0      0     19      1      G
+02      2      0     18      0      G
+03      0      0     19      1      G
+04      0      0     20      0      G
+05     18      0      2      0      A
+XX
+CC  Total Information Content: 8.58551320253218.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8114711.
+XX
+//
+AC  MA0026
+XX
+ID  JI$E74A
+XX
+NA  E74A
+XX
+DE  E74A
+XX
+BF  FLYBASE:FBgn000056; E74A; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      2     12      2      1      C
+01      5     12      0      0      C
+02      0      0     17      0      G
+03      0      0     17      0      G
+04     17      0      0      0      A
+05     17      0      0      0      A
+06      5      1     10      1      R
+XX
+CC  Total Information Content: 10.3539445300757.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 2208281.
+XX
+//
+AC  MA0071
+XX
+ID  JV$RORA
+XX
+NA  RORA
+XX
+DE  RORA
+XX
+BF  SWISSPROT:P35397; RORA; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     15      1      2      7      A
+01      9      1      0     15      W
+02      6     12      4      3      M
+03     11      2      5      7      W
+04     21      0      4      0      A
+05      0      0     25      0      G
+06      0      0     25      0      G
+07      0      0      0     25      T
+08      0     25      0      0      C
+09     25      0      0      0      A
+XX
+CC  Total Information Content: 13.1897301896459.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 7926749.
+XX
+//
+AC  MA0123
+XX
+ID  JP$ABI4
+XX
+NA  ABI4
+XX
+DE  ABI4
+XX
+BF  SWISSPROT:Q8L7W9; ABI4; Species: Zea mays.
+XX
+P0      A      C      G      T
+00      0     49      0      0      C
+01     12      0     37      0      G
+02      0     20     29      0      S
+03      0     23      1     25      Y
+04      1      3     45      0      G
+05      0     45      4      0      C
+06      5     28      6     10      C
+07      3     25     11     10      C
+08      3     31      5     10      C
+09      4     26      7     12      C
+XX
+CC  Total Information Content: 9.74035932391708.
+CC  Factor Class: AP2.
+XX
+RX  PUBMED: 12368505.
+XX
+//
+AC  MA0036
+XX
+ID  JV$GATA2
+XX
+NA  GATA2
+XX
+DE  GATA2
+XX
+BF  SWISSPROT:P23769; GATA2; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     13     13     18      9      N
+01      0      5     48      0      G
+02     52      0      1      0      A
+03      0      0      0     53      T
+04     25      7     15      6      R
+XX
+CC  Total Information Content: 5.68777359118543.
+CC  Factor Class: ZN-FINGER, GATA.
+XX
+RX  PUBMED: 8321207.
+XX
+//
+AC  MA0008
+XX
+ID  JP$Athb-1
+XX
+NA  Athb-1
+XX
+DE  Athb-1
+XX
+BF  SWISSPROT:Q02283; Athb-1; Species: Arabidopsis thaliana.
+XX
+P0      A      C      G      T
+00      3     13      4      5      C
+01     21      1      0      3      A
+02     25      0      0      0      A
+03      0      0      0     25      T
+04      0      5      0     20      T
+05     24      0      1      0      A
+06      1      0      0     24      T
+07      0      0      2     23      T
+XX
+CC  Total Information Content: 11.8821478649142.
+CC  Factor Class: HOMEO-ZIP.
+XX
+RX  PUBMED: 8253077.
+XX
+//
+AC  MA0015
+XX
+ID  JI$CF2-II
+XX
+NA  CF2-II
+XX
+DE  CF2-II
+XX
+BF  FLYBASE:FBgn000028; CF2-II; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00     25     13     40      2      R
+01      1      2      1     76      T
+02     74      2      4      0      A
+03      0      9      4     67      T
+04     78      2      0      0      A
+05      1      4      1     74      T
+06     41      2     36      1      R
+07      2      9      1     68      T
+08     53      3     20      4      A
+09     12     29     15     24      B
+XX
+CC  Total Information Content: 10.9770931714416.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 1290524.
+XX
+//
+AC  MA0028
+XX
+ID  JV$ELK1
+XX
+NA  ELK1
+XX
+DE  ELK1
+XX
+BF  SWISSPROT:P19419; ELK1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      7      7     10      4      V
+01     10      6      6      6      N
+02      9      4     10      5      D
+03      5     19      1      3      C
+04      2     24      1      1      C
+05      0      0     24      4      G
+06      1      0     27      0      G
+07     27      0      1      0      A
+08     21      5      0      2      A
+09     13      0     14      1      R
+XX
+CC  Total Information Content: 8.81228541287854.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 1425594.
+XX
+//
+AC  MA0043
+XX
+ID  JV$HLF
+XX
+NA  HLF
+XX
+DE  HLF
+XX
+BF  SWISSPROT:Q16534; HLF; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1      4      8      5      B
+01      6      0     12      0      R
+02      1      0      0     17      T
+03      0      0      3     15      T
+04     13      1      2      2      A
+05      0     15      1      2      C
+06      6      0     12      0      R
+07      0      9      0      9      Y
+08     13      4      1      0      A
+09     15      0      1      2      A
+10      2      3      1     12      T
+11      5      5      3      5      N
+XX
+CC  Total Information Content: 11.1469251071435.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 8065331.
+XX
+//
+AC  MA0108
+XX
+ID  J$TBP
+XX
+NA  TBP
+XX
+DE  TBP
+XX
+BF  TBP; Species: .
+XX
+P0      A      C      G      T
+00     61    145    152     31      S
+01     16     46     18    309      T
+02    352      0      2     35      A
+03      3     10      2    374      T
+04    354      0      5     30      A
+05    268      0      0    121      A
+06    360      3     10      6      A
+07    222      2     44    121      W
+08    155     44    157     33      R
+09     56    135    150     48      S
+10     83    147    128     31      V
+11     82    127    128     52      V
+12     82    118    128     61      V
+13     68    107    139     75      B
+14     77    101    140     71      N
+XX
+CC  Total Information Content: 10.1980738528127.
+CC  Factor Class: TATA-box.
+XX
+RX  PUBMED: 2329577.
+XX
+//
+AC  MA0084
+XX
+ID  JV$SRY
+XX
+NA  SRY
+XX
+DE  SRY
+XX
+BF  SWISSPROT:Q05066; SRY; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      5      5     10      8      N
+01      8      3      4     13      W
+02     15      0      3     10      W
+03     18      3      3      4      A
+04     25      0      0      3      A
+05      0     26      0      2      C
+06     28      0      0      0      A
+07     27      0      1      0      A
+08      7      0      2     19      T
+XX
+CC  Total Information Content: 9.193014653455.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 8190643.
+XX
+//
+AC  MA0007
+XX
+ID  JV$Ar
+XX
+NA  Ar
+XX
+DE  Ar
+XX
+BF  SWISSPROT:P15207; Ar; Species: Rattus rattus.
+XX
+P0      A      C      G      T
+00      9      7      2      6      H
+01      9      2      3     10      W
+02     11      3      3      7      W
+03     16      1      7      0      A
+04      0      0     22      2      G
+05     12      6      1      5      M
+06     21      2      0      1      A
+07      0     24      0      0      C
+08     15      0      8      1      R
+09      4      9      2      9      Y
+10      5     11      2      6      Y
+11      6      9      9      0      V
+12      3      5      1     15      T
+13      0      0     24      0      G
+14      4      0      0     20      T
+15     11      5      1      7      W
+16      1     22      1      0      C
+17      3     16      1      4      C
+18      6      7      5      6      N
+19      6      5      9      4      V
+20     10     11      0      3      M
+21      5     11      6      2      S
+XX
+CC  Total Information Content: 15.703395549218.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 1491700.
+XX
+//
+AC  MA0120
+XX
+ID  JP$ID1
+XX
+NA  ID1
+XX
+DE  ID1
+XX
+BF  GENBANK:T01652; ID1; Species: Zea mays.
+XX
+P0      A      C      G      T
+00      1      1      2     20      T
+01      3      3      4     14      T
+02      1      2      9     12      K
+03      0      9      3     12      Y
+04      0     13      4      7      Y
+05      2     11      4      7      Y
+06      3      8      2     11      Y
+07      1      1      1     21      T
+08      8      5      1     10      H
+09      0      6      7     11      B
+10      0     17      0      7      C
+11      2      0     18      4      G
+XX
+CC  Total Information Content: 7.72439203551961.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 15020707.
+XX
+//
+AC  MA0059
+XX
+ID  JV$MYC-MAX
+XX
+NA  MYC-MAX
+XX
+DE  MYC-MAX
+XX
+BF  SWISSPROT:P01106; MYC-MAX; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      7      1      9      4      R
+01     15      1      4      1      A
+02      2      9      9      1      S
+03      1     20      0      0      C
+04     21      0      0      0      A
+05      0     20      0      1      C
+06      1      0     20      0      G
+07      0      1      0     20      T
+08      0      0     21      0      G
+09      1      1     18      1      G
+10      3      5      0     13      T
+XX
+CC  Total Information Content: 14.2370460691273.
+CC  Factor Class: bHLH-ZIP.
+XX
+RX  PUBMED: 8265351.
+XX
+//
+AC  MA0117
+XX
+ID  JV$MafB
+XX
+NA  MafB
+XX
+DE  MafB
+XX
+BF  SWISSPROT:P54842; MafB; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00      0      0     15      0      G
+01      1     12      1      1      C
+02      0      3      1     11      T
+03      1      0     12      2      G
+04     12      2      0      1      A
+05      3      8      1      3      C
+06      3      1      7      4      K
+07      2      5      5      3      B
+XX
+CC  Total Information Content: 6.76893921374478.
+CC  Factor Class: bZIP, MAF.
+XX
+RX  PUBMED: 9571165.
+XX
+//
+AC  MA0061
+XX
+ID  JV$NF-kappaB
+XX
+NA  NF-kappaB
+XX
+DE  NF-kappaB
+XX
+BF  NF-kappaB; Species: Vertebrates.
+XX
+P0      A      C      G      T
+00      0      0     38      0      G
+01      0      0     38      0      G
+02      1      0     37      0      G
+03     25      0     13      0      R
+04     19     13      1      5      M
+05      7      1      3     27      T
+06      1      2      2     33      T
+07      2     17      0     19      Y
+08      2     35      0      1      C
+09      0     36      0      2      C
+XX
+CC  Total Information Content: 13.3447617958635.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 8449662.
+XX
+//
+AC  MA0101
+XX
+ID  JV$REL
+XX
+NA  REL
+XX
+DE  REL
+XX
+BF  SWISSPROT:Q04864; REL; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      5      8      4      B
+01      0      1     15      1      G
+02      1      0     15      1      G
+03      5      1      9      2      R
+04      6      5      3      3      N
+05      5      1      1     10      W
+06      1      0      0     16      T
+07      2      0      0     15      T
+08      0     15      0      2      C
+09      1     16      0      0      C
+XX
+CC  Total Information Content: 10.514792387777.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 1406630.
+XX
+//
+AC  MA0017
+XX
+ID  JV$NR2F1
+XX
+NA  NR2F1
+XX
+DE  NR2F1
+XX
+BF  SWISSPROT:P10589; NR2F1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      0      2     11      T
+01      1      0     12      0      G
+02     12      0      1      0      A
+03      6      7      0      0      M
+04      0     13      0      0      C
+05      0      3      0     10      T
+06      0      2      0     11      T
+07      1      0      0     12      T
+08      2      0     11      0      G
+09      6      4      3      0      V
+10      6      5      1      1      M
+11      1     10      1      1      C
+12      3      6      0      4      H
+13      0      3      3      7      T
+XX
+CC  Total Information Content: 15.9238684526357.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 8496174.
+XX
+//
+AC  MA0086
+XX
+ID  JI$Snail
+XX
+NA  Snail
+XX
+DE  Snail
+XX
+BF  SWISSPROT:P08044; Snail; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      0     39      1      0      C
+01     39      0      0      1      A
+02      3      0     37      0      G
+03      2      0     38      0      G
+04      0      0      0     40      T
+05      0      0     38      2      G
+XX
+CC  Total Information Content: 10.7055726786483.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8371971.
+XX
+//
+AC  MA0012
+XX
+ID  JI$Broad-complex_3
+XX
+NA  Broad-complex_3
+XX
+DE  Broad-complex_3
+XX
+BF  EMBL:X54664; Broad-complex_3; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      3      1      1      7      T
+01      9      2      1      0      A
+02     10      0      0      2      A
+03     12      0      0      0      A
+04      0     10      1      1      C
+05      4      0      0      8      W
+06     10      0      0      2      A
+07      6      0      4      2      R
+08      6      1      2      3      W
+09      4      3      2      3      N
+10      2      3      5      2      S
+XX
+CC  Total Information Content: 9.33723168511451.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8062827.
+XX
+//
+AC  MA0038
+XX
+ID  JV$Gfi
+XX
+NA  Gfi
+XX
+DE  Gfi
+XX
+BF  SWISSPROT:Q07120; Gfi; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00      9     20      9     15      Y
+01     28     16      7      2      M
+02     53      0      0      0      A
+03     53      0      0      0      A
+04      1      0      1     51      T
+05      1     52      0      0      C
+06     31      7      2     13      A
+07      8     28     11      6      C
+08     19     11      2     21      H
+09      7     13     28      5      G
+XX
+CC  Total Information Content: 9.47016680639999.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8754800.
+XX
+//
+AC  MA0037
+XX
+ID  JV$GATA3
+XX
+NA  GATA3
+XX
+DE  GATA3
+XX
+BF  SWISSPROT:P23771; GATA3; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     25     14      4     20      H
+01      0      1     62      0      G
+02     61      0      1      1      A
+03      0      0      5     58      T
+04     39      1      4     19      A
+05     15      3     37      8      G
+XX
+CC  Total Information Content: 6.62989113890047.
+CC  Factor Class: ZN-FINGER, GATA.
+XX
+RX  PUBMED: 8321207.
+XX
+//
+AC  MA0064
+XX
+ID  JP$PBF
+XX
+NA  PBF
+XX
+DE  PBF
+XX
+BF  SWISSPROT:O24463; PBF; Species: Zea mays.
+XX
+P0      A      C      G      T
+00     16      0      0      0      A
+01     16      0      0      0      A
+02     16      0      0      0      A
+03      0      0     16      0      G
+04      1      9      1      5      Y
+XX
+CC  Total Information Content: 8.5086853429636.
+CC  Factor Class: ZN-FINGER, DOF.
+XX
+RX  PUBMED: 10074718.
+XX
+//
+AC  MA0019
+XX
+ID  JV$Chop-cEBP
+XX
+NA  Chop-cEBP
+XX
+DE  Chop-cEBP
+XX
+BF  SWISSPROT:P05554; Chop-cEBP; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00     14      7     12      6      V
+01     11      7     14      7      N
+02     18      3     15      3      R
+03      0      1      0     38      T
+04      0      0     38      1      G
+05      4     33      0      2      C
+06     38      1      0      0      A
+07     36      2      1      0      A
+08      0      6      0     33      T
+09     14     17      5      3      M
+10      4     23      9      3      C
+11      0     26      6      7      C
+XX
+CC  Total Information Content: 11.6518212262485.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 8657121.
+XX
+//
+AC  MA0004
+XX
+ID  JV$Arnt
+XX
+NA  Arnt
+XX
+DE  Arnt
+XX
+BF  SWISSPROT:P53762; Arnt; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      4     16      0      0      C
+01     19      0      1      0      A
+02      0     20      0      0      C
+03      0      0     20      0      G
+04      0      0      0     20      T
+05      0      0     20      0      G
+XX
+CC  Total Information Content: 10.9916749479967.
+CC  Factor Class: bHLH.
+XX
+RX  PUBMED: 7592839.
+XX
+//
+AC  MA0047
+XX
+ID  JV$Foxa2
+XX
+NA  Foxa2
+XX
+DE  Foxa2
+XX
+BF  SWISSPROT:P32182; Foxa2; Species: Rattus norvegicus.
+XX
+P0      A      C      G      T
+00      6      7      3      1      M
+01     11      3      1      2      A
+02      8      3      1      5      W
+03      0      1      0     16      T
+04     11      0      6      0      R
+05      0      1      0     16      T
+06      0      1      0     16      T
+07      0      0      6     11      K
+08      9      0      8      0      R
+09      0      9      0      8      Y
+10      1      1      1     14      T
+11      0      5      0     12      T
+XX
+CC  Total Information Content: 12.4332203333019.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 8139574.
+XX
+//
+AC  MA0085
+XX
+ID  JI$SU_h
+XX
+NA  SU_h
+XX
+DE  SU_h
+XX
+BF  SWISSPROT:P28159; SU_h; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      1      3      3      3      B
+01      0      4      0      6      Y
+02      0      0     10      0      G
+03      0      0      0     10      T
+04      0      0     10      0      G
+05      3      0      7      0      G
+06      0      0     10      0      G
+07     10      0      0      0      A
+08     10      0      0      0      A
+09      5      5      0      0      M
+10      1      7      1      1      C
+11      1      2      4      3      B
+12      4      2      2      2      N
+13      3      1      4      2      D
+14      4      3      2      1      V
+15      2      1      2      5      T
+XX
+CC  Total Information Content: 16.6733068362852.
+CC  Factor Class: IPT/TIG domain.
+XX
+RX  PUBMED: 7590239.
+XX
+//
+AC  MA0022
+XX
+ID  JI$Dorsal_1
+XX
+NA  Dorsal_1
+XX
+DE  Dorsal_1
+XX
+BF  FLYBASE:FBgn000046; Dorsal_1; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      0      5      6      2      S
+01      0      0     12      1      G
+02      0      1     11      1      G
+03      0      0     10      3      G
+04      1      1      3      8      T
+05      1      0      2     10      T
+06      1      0      0     12      T
+07      0      0      0     13      T
+08      0      3      0     10      T
+09      1      9      0      3      C
+10      1      9      1      2      C
+11      3      5      5      0      V
+XX
+CC  Total Information Content: 12.9045842260907.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 582412.
+XX
+//
+AC  MA0065
+XX
+ID  JV$PPARG-RXRA
+XX
+NA  PPARG-RXRA
+XX
+DE  PPARG-RXRA
+XX
+BF  SWISSPROT:P19793; PPARG-RXRA; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     10     12      7     12      N
+01      7     13      8     13      N
+02     19      4      6     12      W
+03     13      1     27      0      G
+04     17      0     24      0      R
+05      0      0     41      0      G
+06      0      0     39      2      G
+07      0      2      0     39      T
+08      2     37      2      0      C
+09     41      0      0      0      A
+10     41      0      0      0      A
+11     39      0      2      0      A
+12      0      0     41      0      G
+13      0      0     39      2      G
+14      0      2      0     39      T
+15      2     36      1      2      C
+16     38      1      2      0      A
+17     10     12      4     15      H
+18     13     15      9      4      V
+19      7     10     12     12      N
+XX
+CC  Total Information Content: 23.4488895332387.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 11139380.
+XX
+//
+AC  MA0009
+XX
+ID  JV$T
+XX
+NA  T
+XX
+DE  T
+XX
+BF  SWISSPROT:P20293; T; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      2     28      8      2      C
+01      1      1      0     38      T
+02     40      0      0      0      A
+03      0      0     40      0      G
+04      0      0     40      0      G
+05      0      0      0     40      T
+06      0      0     40      0      G
+07      0      2      0     38      T
+08      1      7     28      4      G
+09     40      0      0      0      A
+10     31      5      0      4      A
+XX
+CC  Total Information Content: 17.8627489557575.
+CC  Factor Class: T-BOX.
+XX
+RX  PUBMED: 8344258.
+XX
+//
+AC  MA0031
+XX
+ID  JV$FOXD1
+XX
+NA  FOXD1
+XX
+DE  FOXD1
+XX
+BF  SWISSPROT:Q16676; FOXD1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1      1     17      1      G
+01      0      0      0     20      T
+02     19      1      0      0      A
+03     20      0      0      0      A
+04     18      1      1      0      A
+05      1     18      0      1      C
+06     20      0      0      0      A
+07      7      2      3      8      W
+XX
+CC  Total Information Content: 11.9264176788219.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 7957066.
+XX
+//
+AC  MA0092
+XX
+ID  JV$HAND1-TCF3
+XX
+NA  HAND1-TCF3
+XX
+DE  HAND1-TCF3
+XX
+BF  SWISSPROT:P15923; HAND1-TCF3; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      4      8     10      7      B
+01     10      0     15      4      R
+02      2      2      1     24      T
+03      0     28      0      1      C
+04      0      0      0     29      T
+05      0      0     29      0      G
+06      0      3     25      1      G
+07      9     14      1      5      M
+08     16      0      3     10      W
+09      5      4      4     16      T
+XX
+CC  Total Information Content: 10.1435823386149.
+CC  Factor Class: bHLH.
+XX
+RX  PUBMED: 7791788.
+XX
+//
+AC  MA0072
+XX
+ID  JV$RORA1
+XX
+NA  RORA1
+XX
+DE  RORA1
+XX
+BF  SWISSPROT:P35398; RORA1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      9      8      8     11      N
+01     17      2      7     10      W
+02     15      0      3     18      W
+03     35      1      0      0      A
+04     23      0      0     13      W
+05      2     12     13      9      B
+06      0      0      0     36      T
+07     28      0      8      0      A
+08      0      0     36      0      G
+09      0      0     36      0      G
+10      0      0      0     36      T
+11      0     36      0      0      C
+12     36      0      0      0      A
+13     15      6     10      5      R
+XX
+CC  Total Information Content: 17.4248426117905.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 7926749.
+XX
+//
+AC  MA0095
+XX
+ID  JV$YY1
+XX
+NA  YY1
+XX
+DE  YY1
+XX
+BF  SWISSPROT:P25490; YY1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      6      1      7      3      R
+01      0     16      0      1      C
+02      0     17      0      0      C
+03     17      0      0      0      A
+04      0      0      0     17      T
+05      3      8      3      3      C
+XX
+CC  Total Information Content: 8.10118850374216.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 7816599.
+XX
+//
+AC  MA0032
+XX
+ID  JV$FOXC1
+XX
+NA  FOXC1
+XX
+DE  FOXC1
+XX
+BF  SWISSPROT:Q9UP06; FOXC1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      4      4      5      3      N
+01      2      5      6      3      B
+02      4      4      3      5      N
+03      6      4      5      1      V
+04      7      3      2      4      W
+05      0      0     16      0      G
+06      0      0      0     16      T
+07     16      0      0      0      A
+XX
+CC  Total Information Content: 6.50807164809114.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 7957066.
+XX
+//
+AC  MA0091
+XX
+ID  JV$TAL1-TCF3
+XX
+NA  TAL1-TCF3
+XX
+DE  TAL1-TCF3
+XX
+BF  SWISSPROT:P15923; TAL1-TCF3; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     13     14      8      9      N
+01      9     10     20      5      S
+02     39      0      3      2      A
+03     20     24      0      0      M
+04      0     43      1      0      C
+05     44      0      0      0      A
+06      0      1     11     32      T
+07     12     32      0      0      C
+08      0      0      0     44      T
+09      0      0     43      1      G
+10      0      3     20     21      K
+11      4      4      2     34      T
+XX
+CC  Total Information Content: 14.0701377487026.
+CC  Factor Class: bHLH.
+XX
+RX  PUBMED: 8289805.
+XX
+//
+AC  MA0049
+XX
+ID  JI$Hunchback
+XX
+NA  Hunchback
+XX
+DE  Hunchback
+XX
+BF  SWISSPROT:P05084; Hunchback; Species: Drosophila melanogaster.
+XX
+P0      A      C      G      T
+00      1      5      8      2      S
+01      6      8      2      0      M
+02      9      3      4      0      A
+03      4      3      1      8      W
+04     13      1      0      2      A
+05     16      0      0      0      A
+06     16      0      0      0      A
+07     14      0      2      0      A
+08     15      1      0      0      A
+09      9      2      2      3      A
+XX
+CC  Total Information Content: 10.403423261874.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 2507923.
+XX
+//
+AC  MA0109
+XX
+ID  JV$RUSH1-alfa
+XX
+NA  RUSH1-alfa
+XX
+DE  RUSH1-alfa
+XX
+BF  Genbank:AAM33847; RUSH1-alfa; Species: Oryctolagus cuniculus.
+XX
+P0      A      C      G      T
+00      3      5      1      2      M
+01      3      1      3      4      D
+02      0      1      0     10      T
+03      7      0      1      3      A
+04      0      2      1      8      T
+05      2      9      0      0      C
+06      1      0      2      8      T
+07      0      8      2      1      C
+XX
+CC  Total Information Content: 6.69084531447874.
+CC  Factor Class: ZN-FINGER, GATA.
+XX
+RX  PUBMED: 12198246.
+XX
+//
+AC  MA0114
+XX
+ID  JV$HNF4
+XX
+NA  HNF4
+XX
+DE  HNF4
+XX
+BF  HNF4; Species: -.
+XX
+P0      A      C      G      T
+00     28      7     27      5      R
+01      2      2     56      7      G
+02     12      4     35     16      G
+03      5     23     20     19      B
+04      3     51      4      9      C
+05     59      1      3      4      A
+06     53      2     10      2      A
+07     56      1      8      2      A
+08      4      4     58      1      G
+09      6      2     33     26      K
+10      3     22     11     31      Y
+11      4     49      5      9      C
+12     42      7     10      8      A
+XX
+CC  Total Information Content: 9.61741421120951.
+CC  Factor Class: NUCLEAR.
+XX
+RX  PUBMED: 12385991.
+XX
+//
+AC  MA0074
+XX
+ID  JV$RXR-VDR
+XX
+NA  RXR-VDR
+XX
+DE  RXR-VDR
+XX
+BF  SWISSPROT:P11473; RXR-VDR; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      3      0      7      0      G
+01      0      0     10      0      G
+02      0      0      9      1      G
+03      0      0      0     10      T
+04      0      9      0      1      C
+05      9      0      1      0      A
+06      4      2      0      4      H
+07      2      4      2      2      N
+08      2      0      8      0      G
+09      5      0      5      0      R
+10      0      0     10      0      G
+11      0      0      0     10      T
+12      1      0      0      9      T
+13      0      9      0      1      C
+14      7      1      2      0      A
+XX
+CC  Total Information Content: 20.4511671987138.
+CC  Factor Class: NUCLEAR RECEPTOR.
+XX
+RX  PUBMED: 8674817.
+XX
+//
+AC  MA0100
+XX
+ID  JV$Myb
+XX
+NA  Myb
+XX
+DE  Myb
+XX
+BF  SWISSPROT:P06876; Myb; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      8      4     34      5      G
+01     22      1     25      3      R
+02      2     48      1      0      C
+03     16     17     16      2      V
+04      1      0     50      0      G
+05      2      1      0     48      T
+06      0      0      0     51      T
+07      6      0     44      1      G
+XX
+CC  Total Information Content: 9.88327768496603.
+CC  Factor Class: TRP-CLUSTER.
+XX
+RX  PUBMED: 1861984.
+XX
+//
+AC  MA0039
+XX
+ID  JV$Klf4
+XX
+NA  Klf4
+XX
+DE  Klf4
+XX
+BF  SWISSPROT:Q60793; Klf4; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00     18      9      2     20      W
+01     33      0     13      3      A
+02     30      3     15      1      R
+03     23      1     19      6      R
+04     13      6     29      1      G
+05     20      4     23      2      R
+06     36      4      5      4      A
+07     32      2     13      2      A
+08     13      1     33      2      G
+09      2      1     46      0      G
+XX
+CC  Total Information Content: 7.23339319085871.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 9443972.
+XX
+//
+AC  MA0089
+XX
+ID  JV$TCF11-MafG
+XX
+NA  TCF11-MafG
+XX
+DE  TCF11-MafG
+XX
+BF  SWISSPROT:Q14494; TCF11-MafG; Species: Gallus gallus.
+XX
+P0      A      C      G      T
+00      7     11     10      6      N
+01     29      2      3      0      A
+02      0      0      0     34      T
+03      1      0     32      1      G
+04     34      0      0      0      A
+05      0     26      2      6      C
+XX
+CC  Total Information Content: 7.9381437011596.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 9421508.
+XX
+//
+AC  MA0027
+XX
+ID  JV$En1
+XX
+NA  En1
+XX
+DE  En1
+XX
+BF  SWISSPROT:P09065; En1; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      4      1      2      3      D
+01      5      2      2      1      A
+02      3      0      7      0      G
+03      0      0      2      8      T
+04      4      0      3      3      D
+05      3      0      7      0      G
+06      3      0      0      7      T
+07      2      1      4      3      D
+08      1      3      3      3      B
+09      1      4      1      4      Y
+10      1      6      1      2      C
+XX
+CC  Total Information Content: 6.42106534259983.
+CC  Factor Class: HOMEO.
+XX
+RX  PUBMED: 8096059.
+XX
+//
+AC  MA0034
+XX
+ID  JP$GAMYB
+XX
+NA  GAMYB
+XX
+DE  GAMYB
+XX
+BF  GENBANK:g13236696; GAMYB; Species: Hordeum vulgare.
+XX
+P0      A      C      G      T
+00      4      6     11      4      S
+01     10      5      7      3      V
+02      3     13      0      9      Y
+03     23      1      1      0      A
+04     25      0      0      0      A
+05      1     24      0      0      C
+06      3     14      6      2      C
+07      6      0     19      0      G
+08     10     11      0      4      M
+09      5     19      1      0      C
+XX
+CC  Total Information Content: 9.31133794025198.
+CC  Factor Class: TRP-CLUSTER.
+XX
+RX  PUBMED: 10069063.
+XX
+//
+AC  MA0076
+XX
+ID  JV$ELK4
+XX
+NA  ELK4
+XX
+DE  ELK4
+XX
+BF  SWISSPROT:P28324; ELK4; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00     16      1      2      1      A
+01      0     20      0      0      C
+02      0     20      0      0      C
+03      0      0     20      0      G
+04      0      0     20      0      G
+05     20      0      0      0      A
+06     16      0      0      4      A
+07      4      1     15      0      G
+08      1      6      0     13      T
+XX
+CC  Total Information Content: 14.123230134165.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 8524663.
+XX
+//
+AC  MA0112
+XX
+ID  JV$ESR1
+XX
+NA  ESR1
+XX
+DE  ESR1
+XX
+BF  SWISSPROT:P03372; ESR1; Species: -.
+XX
+P0      A      C      G      T
+00      1      5      1      2      C
+01      1      5      1      2      C
+02      7      1      1      0      A
+03      2      0      7      0      G
+04      0      0      9      0      G
+05      0      0      0      9      T
+06      0      7      2      0      C
+07      6      0      2      1      A
+08      1      7      1      0      C
+09      2      5      1      1      C
+10      3      2      4      0      V
+11      1      1      1      6      T
+12      1      0      8      0      G
+13      5      1      3      0      R
+14      0      8      0      1      C
+15      0      9      0      0      C
+16      2      4      0      3      H
+17      3      4      1      1      M
+XX
+CC  Total Information Content: 17.6826360597729.
+CC  Factor Class: NUCLEAR.
+XX
+RX  PUBMED: 15563547.
+XX
+//
+AC  MA0014
+XX
+ID  JV$Pax5
+XX
+NA  Pax5
+XX
+DE  Pax5
+XX
+BF  SWISSPROT:Q02650; Pax5; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      4      1      4      3      D
+01      4      0      8      0      R
+02      4      3      3      2      N
+03      1      2      5      4      K
+04      2      7      1      2      C
+05      7      2      1      2      A
+06      2      5      3      2      S
+07      0      3      2      7      T
+08      1      2      8      1      G
+09      6      1      3      2      R
+10      6      0      2      4      W
+11      0      0     12      0      G
+12      2      8      1      1      C
+13      3      0      9      0      G
+14      1      0      4      7      K
+15      6      1      5      0      R
+16      5      1      5      1      R
+17      2     10      0      0      C
+18      2      5      5      0      S
+19      5      0      6      1      R
+XX
+CC  Total Information Content: 12.4319608285825.
+CC  Factor Class: PAIRED.
+XX
+RX  PUBMED: 8406007.
+XX
+//
+AC  MA0042
+XX
+ID  JV$FOXI1
+XX
+NA  FOXI1
+XX
+DE  FOXI1
+XX
+BF  SWISSPROT:Q14518; FOXI1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      6      1     14     10      K
+01      4      8     12      7      B
+02     11      4      8      8      D
+03      0      0      0     31      T
+04     13      0     18      0      R
+05      0      0      0     31      T
+06      0      0      0     31      T
+07      0      0      0     31      T
+08     15      0     16      0      R
+09      0      0      7     24      T
+10      8      1      4     18      T
+11      2      1      4     24      T
+XX
+CC  Total Information Content: 13.1829736117753.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 9153225.
+XX
+//
+AC  MA0057
+XX
+ID  JV$ZNF42_5-13
+XX
+NA  ZNF42_5-13
+XX
+DE  ZNF42_5-13
+XX
+BF  SWISSPROT:P28698; ZNF42_5-13; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      1      4      7      4      B
+01      2      0      7      7      K
+02     15      1      0      0      A
+03      0      0     11      5      G
+04      0      0     15      1      G
+05      0      2     14      0      G
+06      0      0     14      2      G
+07      3      1      8      4      K
+08     10      0      4      2      A
+09      8      2      4      2      R
+XX
+CC  Total Information Content: 9.40029161122264.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8114711.
+XX
+//
+AC  MA0118
+XX
+ID  JC$Macho-1
+XX
+NA  Macho-1
+XX
+DE  Macho-1
+XX
+BF  SWISSPROT:Q9GRA5; Macho-1; Species: Halocynthia roretzi.
+XX
+P0      A      C      G      T
+00      5     15      6     16      Y
+01      9      2     23      8      G
+02      0      0     42      0      G
+03      0      0     42      0      G
+04      3      4     23     12      K
+05      0      0     42      0      G
+06      5      7     15     15      K
+07      5     14      4     19      Y
+08     13     14     10      5      V
+XX
+CC  Total Information Content: 7.46607328520911.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 15661650.
+XX
+//
+AC  MA0029
+XX
+ID  JV$Evi1
+XX
+NA  Evi1
+XX
+DE  Evi1
+XX
+BF  SWISSPROT:P14404; Evi1; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00     14      2      6      5      A
+01     20      1      2      4      A
+02      0      1     25      1      G
+03     27      0      0      0      A
+04      1     10      0     16      Y
+05     27      0      0      0      A
+06     26      0      1      0      A
+07      0      0     27      0      G
+08     27      0      0      0      A
+09      0      3      0     24      T
+10     24      1      0      2      A
+11     23      0      4      0      A
+12      6      7      7      7      N
+13     15      6      3      3      A
+XX
+CC  Total Information Content: 17.9085403297222.
+CC  Factor Class: ZN-FINGER, C2H2.
+XX
+RX  PUBMED: 8321231.
+XX
+//
+AC  MA0024
+XX
+ID  JV$E2F1
+XX
+NA  E2F1
+XX
+DE  E2F1
+XX
+BF  EMBL:S49592; E2F1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      0      0      0     10      T
+01      0      0      0     10      T
+02      0      0      0     10      T
+03      0      4      6      0      S
+04      0      2      8      0      G
+05      0     10      0      0      C
+06      0      0     10      0      G
+07      0      9      1      0      C
+XX
+CC  Total Information Content: 13.8381257170687.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 1411535.
+XX
+//
+AC  MA0099
+XX
+ID  JV$Fos
+XX
+NA  Fos
+XX
+DE  Fos
+XX
+BF  SWISSPROT:P01101; Fos; Species: Mus musculus.
+XX
+P0      A      C      G      T
+00      5      2     12      0      G
+01      0      0      0     19      T
+02      0      1     18      0      G
+03     18      1      0      0      A
+04      1      6      9      3      S
+05      1      1      0     17      T
+06      6     13      0      0      C
+07     18      0      0      1      A
+XX
+CC  Total Information Content: 10.6698488649404.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 2243767.
+XX
+//
+AC  MA0033
+XX
+ID  JV$FOXL1
+XX
+NA  FOXL1
+XX
+DE  FOXL1
+XX
+BF  SWISSPROT:Q12952; FOXL1; Species: Homo sapiens.
+XX
+P0      A      C      G      T
+00      7      1      4     11      W
+01     10      4      2      7      W
+02      6      3      6      8      D
+03     13      4      4      2      A
+04      4     10      2      7      Y
+05     21      0      2      0      A
+06      0      2      0     21      T
+07     22      1      0      0      A
+XX
+CC  Total Information Content: 6.06853671151551.
+CC  Factor Class: FORKHEAD.
+XX
+RX  PUBMED: 7957066.
+XX
+//
+AC  MA0113
+XX
+ID  JV$NR3C1
+XX
+NA  NR3C1
+XX
+DE  NR3C1
+XX
+BF  SWISSPROT:P04150; NR3C1; Species: -.
+XX
+P0      A      C      G      T
+00      3      2      4      0      V
+01      4      0      5      0      R
+02      3      0      6      0      R
+03      7      0      1      1      A
+04      6      1      1      1      A
+05      1      6      2      0      C
+06      8      0      1      0      A
+07      2      0      2      5      T
+08      3      2      0      4      H
+09      5      3      0      1      M
+10      1      3      0      5      Y
+11      0      0      8      1      G
+12      1      0      0      8      T
+13      2      4      0      3      H
+14      0      8      1      0      C
+15      1      2      1      5      T
+16      4      0      4      1      R
+17      3      1      2      3      D
+XX
+CC  Total Information Content: 14.7489179581357.
+CC  Factor Class: NUCLEAR.
+XX
+RX  PUBMED: 15563547.
+XX
+//

@@ -1,0 +1,288 @@
+VV JASPAR Core, Release 01-March-2006, Download site http://jaspar.cgb.ki.se/DOWNLOAD/MatrixDir
+XX
+//
+AC  MF0011
+XX
+ID  J$HMG class
+XX
+NA  HMG class
+XX
+DE  HMG class
+XX
+BF  HMG class; Species: .
+XX
+P0      A      C      G      T
+00     60      9      0     30      W
+01      1      6     14     77      T
+02      1      4      0     92      T
+03     11      6     74      7      G
+04     12      8      3     76      T
+05     10     17     10     61      T
+XX
+CC  Total Information Content: 5.33180767133444.
+CC  Factor Class: HMG.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0006
+XX
+ID  J$bZIP cEBP-like subclass
+XX
+NA  bZIP cEBP-like subclass
+XX
+DE  bZIP cEBP-like subclass
+XX
+BF  bZIP cEBP-like subclass; Species: .
+XX
+P0      A      C      G      T
+00     60      8     28      2      A
+01      2      3      1     92      T
+02      0      1      6     92      T
+03     40      0     54      5      R
+04      3     77      2     16      C
+05     50      4     42      2      R
+06     15     20      4     59      T
+07     65     20      5      8      A
+08     72      7      4     15      A
+XX
+CC  Total Information Content: 7.89193388107753.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0009
+XX
+ID  J$TRP(MYB) class
+XX
+NA  TRP(MYB) class
+XX
+DE  TRP(MYB) class
+XX
+BF  TRP(MYB) class; Species: .
+XX
+P0      A      C      G      T
+00     33      2      6     57      W
+01     25      4     36     33      D
+02     34      3     20     41      D
+03      5     70      5     18      C
+04     26     19     47      6      R
+05      1     20     71      6      G
+06      2      1      0     96      T
+07      1      1      1     95      T
+XX
+CC  Total Information Content: 6.40223313941086.
+CC  Factor Class: TRP.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0003
+XX
+ID  J$REL class
+XX
+NA  REL class
+XX
+DE  REL class
+XX
+BF  REL class; Species: .
+XX
+P0      A      C      G      T
+00      0     10     79      9      G
+01      0      2     90      6      G
+02      1      0     93      4      G
+03     29      2     54     14      R
+04     42     16     15     26      W
+05     19      3      4     73      T
+06      1      5      2     90      T
+07      2     27      0     70      T
+08      2     90      0      7      C
+09      4     91      1      3      C
+XX
+CC  Total Information Content: 10.9553785258347.
+CC  Factor Class: REL.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0005
+XX
+ID  J$Forkhead class
+XX
+NA  Forkhead class
+XX
+DE  Forkhead class
+XX
+BF  Forkhead class; Species: .
+XX
+P0      A      C      G      T
+00      3      2      0     94      T
+01     24      0     74      1      G
+02      0      1      0     97      T
+03      0      1      0     98      T
+04      1      0      8     90      T
+05     76      0     20      3      A
+06      2     40      6     50      Y
+07     16     10     22     50      T
+08      6     20     11     61      T
+XX
+CC  Total Information Content: 10.3094355478249.
+CC  Factor Class: Forkhead.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0004
+XX
+ID  J$Nuclear Receptor class
+XX
+NA  Nuclear Receptor class
+XX
+DE  Nuclear Receptor class
+XX
+BF  Nuclear Receptor class; Species: .
+XX
+P0      A      C      G      T
+00     48      3     37     10      R
+01      3      0     86      9      G
+02      5      2     80     11      G
+03     14      4      6     73      T
+04     13     77      4      5      C
+05     74     17      6      1      A
+XX
+CC  Total Information Content: 5.37601831905227.
+CC  Factor Class: Nuclear receptor.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0008
+XX
+ID  J$MADS class
+XX
+NA  MADS class
+XX
+DE  MADS class
+XX
+BF  MADS class; Species: .
+XX
+P0      A      C      G      T
+00      3     91      1      4      C
+01      1     49      1     48      Y
+02     70      7      3     18      A
+03     17      5      5     71      T
+04     52      0      1     45      W
+05     16      0      0     82      T
+06     53      2      3     41      W
+07     17      4      3     73      T
+08     28      0     70      1      G
+09      5      1     84      8      G
+XX
+CC  Total Information Content: 9.66247378819726.
+CC  Factor Class: MADS.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0001
+XX
+ID  J$ETS class
+XX
+NA  ETS class
+XX
+DE  ETS class
+XX
+BF  ETS class; Species: .
+XX
+P0      A      C      G      T
+00     61      8     15     14      A
+01     10     68     17      4      C
+02     22     65      8      3      C
+03      1      0     94      2      G
+04      1      0     97      0      G
+05     98      0      0      0      A
+06     86      2      0     10      A
+07     23      8     64      3      G
+XX
+CC  Total Information Content: 8.99242242623466.
+CC  Factor Class: ETS.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0002
+XX
+ID  J$bZIP CREB/G-box-like subclass
+XX
+NA  bZIP CREB/G-box-like subclass
+XX
+DE  bZIP CREB/G-box-like subclass
+XX
+BF  bZIP CREB/G-box-like subclass; Species: .
+XX
+P0      A      C      G      T
+00      0      0      0    100      T
+01      0      0     96      2      G
+02    100      0      0      0      A
+03      0     94      1      4      C
+04      0      0    100      0      G
+05      2     10      0     87      T
+XX
+CC  Total Information Content: 10.786011975578.
+CC  Factor Class: bZIP.
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0007
+XX
+ID  J$bHLH(zip) class
+XX
+NA  bHLH(zip) class
+XX
+DE  bHLH(zip) class
+XX
+BF  bHLH(zip) class; Species: .
+XX
+P0      A      C      G      T
+00     61     12     22      3      A
+01     21     35     26     16      V
+02      3     90      1      3      C
+03     83      1      8      6      A
+04      4     65     21      9      C
+05      5     25     67      0      G
+06      5      4      0     90      T
+07      2      0     94      2      G
+XX
+CC  Total Information Content: 7.72446306243099.
+CC  Factor Class: bHLH(zip).
+XX
+RX  PUBMED: 15066426.
+XX
+//
+AC  MF0010
+XX
+ID  J$Homeobox class
+XX
+NA  Homeobox class
+XX
+DE  Homeobox class
+XX
+BF  Homeobox class; Species: .
+XX
+P0      A      C      G      T
+00     75      8      6     10      A
+01     60      3     14     22      A
+02      5      4      3     86      T
+03     65      2     21     11      A
+04     80      1     10      6      A
+05      7      0      7     83      T
+06     12      7      8     71      T
+XX
+CC  Total Information Content: 6.0772209483364.
+CC  Factor Class: Homeo.
+XX
+RX  PUBMED: 15066426.
+XX
+//

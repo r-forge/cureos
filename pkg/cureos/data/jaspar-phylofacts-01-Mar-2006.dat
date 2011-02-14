@@ -1,0 +1,4865 @@
+VV JASPAR Core, Release 01-March-2006, Download site http://jaspar.cgb.ki.se/DOWNLOAD/MatrixDir
+XX
+//
+AC  PF0124
+XX
+ID  JM$CCAWYNNGAAR
+XX
+NA  CCAWYNNGAAR
+XX
+DE  CCAWYNNGAAR
+XX
+BF  CCAWYNNGAAR; Species: -.
+XX
+P0      A      C      G      T
+00      0    572      0      0      C
+01      0    572      0      0      C
+02    572      0      0      0      A
+03    420      0      0    152      A
+04      0    126      0    446      T
+05    109    167    149    147      N
+06    247      1    208    116      R
+07      0      0    572      0      G
+08    572      0      0      0      A
+09    572      0      0      0      A
+10    280      0    292      0      R
+XX
+CC  Total Information Content: 15.8840652682399.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0032
+XX
+ID  JM$TGASTMAGC
+XX
+NA  TGASTMAGC
+XX
+DE  TGASTMAGC
+XX
+BF  TGASTMAGC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    596      T
+01      0      0    596      0      G
+02    596      0      0      0      A
+03      0    415    181      0      C
+04      0      0      0    596      T
+05     68    528      0      0      C
+06    596      0      0      0      A
+07      0      0    596      0      G
+08      0    596      0      0      C
+XX
+CC  Total Information Content: 16.6021012093703.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0111
+XX
+ID  JM$RACCACAR
+XX
+NA  RACCACAR
+XX
+DE  RACCACAR
+XX
+BF  RACCACAR; Species: -.
+XX
+P0      A      C      G      T
+00    473      0    299      0      R
+01    772      0      0      0      A
+02      0    772      0      0      C
+03      0    772      0      0      C
+04    772      0      0      0      A
+05      0    772      0      0      C
+06    772      0      0      0      A
+07    407      0    365      0      R
+XX
+CC  Total Information Content: 14.0390973145781.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0131
+XX
+ID  JM$GATAAGR
+XX
+NA  GATAAGR
+XX
+DE  GATAAGR
+XX
+BF  GATAAGR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    936      0      G
+01    936      0      0      0      A
+02      0      0      0    936      T
+03    936      0      0      0      A
+04    936      0      0      0      A
+05      0      0    936      0      G
+06    463      0    473      0      R
+XX
+CC  Total Information Content: 13.0000823381506.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0036
+XX
+ID  JM$RTAAACA
+XX
+NA  RTAAACA
+XX
+DE  RTAAACA
+XX
+BF  RTAAACA; Species: -.
+XX
+P0      A      C      G      T
+00   1339      0   1581      0      R
+01      0      0      0   2920      T
+02   2920      0      0      0      A
+03   2920      0      0      0      A
+04   2920      0      0      0      A
+05      0   2920      0      0      C
+06   2920      0      0      0      A
+XX
+CC  Total Information Content: 13.0049602985846.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0115
+XX
+ID  JM$YRTCANNRCGC
+XX
+NA  YRTCANNRCGC
+XX
+DE  YRTCANNRCGC
+XX
+BF  YRTCANNRCGC; Species: -.
+XX
+P0      A      C      G      T
+00      0    218      0    114      Y
+01     54      0    278      0      G
+02      0      0      0    332      T
+03      0    332      0      0      C
+04    332      0      0      0      A
+05     18    142    105     67      S
+06     37    132    116     47      S
+07    120      0    212      0      R
+08      0    332      0      0      C
+09      0      0    332      0      G
+10      0    332      0      0      C
+XX
+CC  Total Information Content: 15.9330467030515.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0157
+XX
+ID  JM$KCCGNSWTTT
+XX
+NA  KCCGNSWTTT
+XX
+DE  KCCGNSWTTT
+XX
+BF  KCCGNSWTTT; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    371    197      K
+01      0    568      0      0      C
+02      0    568      0      0      C
+03      0      0    568      0      G
+04     31    341    147     49      C
+05      0    416    152      0      C
+06    381      0      0    187      A
+07      0      0      0    568      T
+08      0      0      0    568      T
+09      0      0      0    568      T
+XX
+CC  Total Information Content: 15.8360959354586.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0137
+XX
+ID  JM$GAANYNYGACNY
+XX
+NA  GAANYNYGACNY
+XX
+DE  GAANYNYGACNY
+XX
+BF  GAANYNYGACNY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    216      0      G
+01    216      0      0      0      A
+02    216      0      0      0      A
+03     90     62     33     31      M
+04      0    100      0    116      Y
+05     29     95     38     54      Y
+06      0     48      0    168      T
+07      0      0    216      0      G
+08    216      0      0      0      A
+09      0    216      0      0      C
+10     55     82     27     52      H
+11      0    105      0    111      Y
+XX
+CC  Total Information Content: 15.6273819419734.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0061
+XX
+ID  JM$YTAATTAA
+XX
+NA  YTAATTAA
+XX
+DE  YTAATTAA
+XX
+BF  YTAATTAA; Species: -.
+XX
+P0      A      C      G      T
+00      0    205      0    347      Y
+01      0      0      0    552      T
+02    552      0      0      0      A
+03    552      0      0      0      A
+04      0      0      0    552      T
+05      0      0      0    552      T
+06    552      0      0      0      A
+07    552      0      0      0      A
+XX
+CC  Total Information Content: 15.0482766179379.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0155
+XX
+ID  JM$WGTTNNNNNAAA
+XX
+NA  WGTTNNNNNAAA
+XX
+DE  WGTTNNNNNAAA
+XX
+BF  WGTTNNNNNAAA; Species: -.
+XX
+P0      A      C      G      T
+00    843      0      0    737      W
+01      0      0   1580      0      G
+02      0      0      0   1580      T
+03      0      0      0   1580      T
+04    265    283    359    673      K
+05    423    369    361    427      N
+06    410    371    254    545      H
+07    489    189    460    442      D
+08    463    334    406    377      N
+09   1580      0      0      0      A
+10   1580      0      0      0      A
+11   1580      0      0      0      A
+XX
+CC  Total Information Content: 13.2589289259166.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0014
+XX
+ID  JM$TGACGTCA
+XX
+NA  TGACGTCA
+XX
+DE  TGACGTCA
+XX
+BF  TGACGTCA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1100      T
+01      0      0   1100      0      G
+02   1100      0      0      0      A
+03      0   1100      0      0      C
+04      0      0   1100      0      G
+05      0      0      0   1100      T
+06      0   1100      0      0      C
+07   1100      0      0      0      A
+XX
+CC  Total Information Content: 16.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0140
+XX
+ID  JM$RNGTGGGC
+XX
+NA  RNGTGGGC
+XX
+DE  RNGTGGGC
+XX
+BF  RNGTGGGC; Species: -.
+XX
+P0      A      C      G      T
+00   1436      0   1572      0      R
+01    752    697   1117    442      V
+02      0      0   3008      0      G
+03      0      0      0   3008      T
+04      0      0   3008      0      G
+05      0      0   3008      0      G
+06      0      0   3008      0      G
+07      0   3008      0      0      C
+XX
+CC  Total Information Content: 13.0753988391757.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0135
+XX
+ID  JM$AGCYRWTTC
+XX
+NA  AGCYRWTTC
+XX
+DE  AGCYRWTTC
+XX
+BF  AGCYRWTTC; Species: -.
+XX
+P0      A      C      G      T
+00    388      0      0      0      A
+01      0      0    388      0      G
+02      0    388      0      0      C
+03      0    213      0    175      Y
+04    180      0    208      0      R
+05    121      0      0    267      T
+06      0      0      0    388      T
+07      0      0      0    388      T
+08      0    388      0      0      C
+XX
+CC  Total Information Content: 15.1153861586506.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0171
+XX
+ID  JM$CTCNANGTGNY
+XX
+NA  CTCNANGTGNY
+XX
+DE  CTCNANGTGNY
+XX
+BF  CTCNANGTGNY; Species: -.
+XX
+P0      A      C      G      T
+00      0    368      0      0      C
+01      0      0      0    368      T
+02      0    368      0      0      C
+03     43    268     20     37      C
+04    368      0      0      0      A
+05     69    125    118     56      V
+06      0      0    368      0      G
+07      0      0      0    368      T
+08      0      0    368      0      G
+09     75    115    111     67      N
+10      0    252      0    116      C
+XX
+CC  Total Information Content: 15.9617462877539.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0133
+XX
+ID  JM$RYTAAWNNNTGAY
+XX
+NA  RYTAAWNNNTGAY
+XX
+DE  RYTAAWNNNTGAY
+XX
+BF  RYTAAWNNNTGAY; Species: -.
+XX
+P0      A      C      G      T
+00     66      0    102      0      R
+01      0     42      0    126      T
+02      0      0      0    168      T
+03    168      0      0      0      A
+04    168      0      0      0      A
+05     83      0      0     85      W
+06     37     35     53     43      N
+07     43     19     48     58      D
+08      5     53     39     71      B
+09      0      0      0    168      T
+10      0      0    168      0      G
+11    168      0      0      0      A
+12      0     93      0     75      Y
+XX
+CC  Total Information Content: 16.6548422231793.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0050
+XX
+ID  JM$RGAGGAARY
+XX
+NA  RGAGGAARY
+XX
+DE  RGAGGAARY
+XX
+BF  RGAGGAARY; Species: -.
+XX
+P0      A      C      G      T
+00    983      0    905      0      R
+01      0      0   1888      0      G
+02   1888      0      0      0      A
+03      0      0   1888      0      G
+04      0      0   1888      0      G
+05   1888      0      0      0      A
+06   1888      0      0      0      A
+07    544      0   1344      0      G
+08      0    839      0   1049      Y
+XX
+CC  Total Information Content: 15.1438737744164.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0160
+XX
+ID  JM$CAGNYGKNAAA
+XX
+NA  CAGNYGKNAAA
+XX
+DE  CAGNYGKNAAA
+XX
+BF  CAGNYGKNAAA; Species: -.
+XX
+P0      A      C      G      T
+00      0    228      0      0      C
+01    228      0      0      0      A
+02      0      0    228      0      G
+03     52    127     30     19      C
+04      0     35      0    193      T
+05      0      0    228      0      G
+06      0      0    122    106      K
+07     37     90     76     25      S
+08    228      0      0      0      A
+09    228      0      0      0      A
+10    228      0      0      0      A
+XX
+CC  Total Information Content: 16.9115857648467.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0128
+XX
+ID  JM$RYCACNNRNNRNCAG
+XX
+NA  RYCACNNRNNRNCAG
+XX
+DE  RYCACNNRNNRNCAG
+XX
+BF  RYCACNNRNNRNCAG; Species: -.
+XX
+P0      A      C      G      T
+00     76      0    160      0      G
+01      0    135      0    101      Y
+02      0    236      0      0      C
+03    236      0      0      0      A
+04      0    236      0      0      C
+05     78     62     58     38      V
+06     78     38     84     36      R
+07     78      0    158      0      G
+08     92     39     90     15      R
+09     46     54     75     61      N
+10    105      0    131      0      R
+11     48     51    107     30      G
+12      0    236      0      0      C
+13    236      0      0      0      A
+14      0      0    236      0      G
+XX
+CC  Total Information Content: 16.7895256979172.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0040
+XX
+ID  JM$TTCYNRGAA
+XX
+NA  TTCYNRGAA
+XX
+DE  TTCYNRGAA
+XX
+BF  TTCYNRGAA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1048      T
+01      0      0      0   1048      T
+02      0   1048      0      0      C
+03      0    659      0    389      Y
+04    249    246    247    306      N
+05    480      0    568      0      R
+06      0      0   1048      0      G
+07   1048      0      0      0      A
+08   1048      0      0      0      A
+XX
+CC  Total Information Content: 14.0600799181782.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0030
+XX
+ID  JM$YGCGYRCGC
+XX
+NA  YGCGYRCGC
+XX
+DE  YGCGYRCGC
+XX
+BF  YGCGYRCGC; Species: -.
+XX
+P0      A      C      G      T
+00      0   1385      0    747      Y
+01      0      0   2132      0      G
+02      0   2132      0      0      C
+03      0      0   2132      0      G
+04      0   1435      0    697      C
+05    619      0   1513      0      G
+06      0   2132      0      0      C
+07      0      0   2132      0      G
+08      0   2132      0      0      C
+XX
+CC  Total Information Content: 15.2846884255224.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0151
+XX
+ID  JM$RYAAAKNNNNNNTTGW
+XX
+NA  RYAAAKNNNNNNTTGW
+XX
+DE  RYAAAKNNNNNNTTGW
+XX
+BF  RYAAAKNNNNNNTTGW; Species: -.
+XX
+P0      A      C      G      T
+00    171      0     69      0      A
+01      0    153      0     87      Y
+02    240      0      0      0      A
+03    240      0      0      0      A
+04    240      0      0      0      A
+05      0      0    142     98      K
+06     89     38     67     46      D
+07     40     50     66     84      B
+08     32     74     63     71      B
+09     29     77     38     96      Y
+10     48    115     28     49      C
+11     82     53     34     71      H
+12      0      0      0    240      T
+13      0      0      0    240      T
+14      0      0    240      0      G
+15    100      0      0    140      W
+XX
+CC  Total Information Content: 16.8532575371761.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0153
+XX
+ID  JM$CTGRYYYNATT
+XX
+NA  CTGRYYYNATT
+XX
+DE  CTGRYYYNATT
+XX
+BF  CTGRYYYNATT; Species: -.
+XX
+P0      A      C      G      T
+00      0    184      0      0      C
+01      0      0      0    184      T
+02      0      0    184      0      G
+03    114      0     70      0      R
+04      0     94      0     90      Y
+05      0    107      0     77      Y
+06      0     48      0    136      T
+07     45     67     35     37      N
+08    184      0      0      0      A
+09      0      0      0    184      T
+10      0      0      0    184      T
+XX
+CC  Total Information Content: 16.2848322108467.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0141
+XX
+ID  JM$TTCNRGNNNNTTC
+XX
+NA  TTCNRGNNNNTTC
+XX
+DE  TTCNRGNNNNTTC
+XX
+BF  TTCNRGNNNNTTC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    588      T
+01      0      0      0    588      T
+02      0    588      0      0      C
+03     61    290      7    230      Y
+04    343      0    245      0      R
+05      0      0    588      0      G
+06    251    155     99     83      M
+07    279     66     76    167      W
+08    133    154    157    144      N
+09     76    216    116    180      B
+10      0      0      0    588      T
+11      0      0      0    588      T
+12      0    588      0      0      C
+XX
+CC  Total Information Content: 16.0536657128651.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0021
+XX
+ID  JM$GGAANCGGAANY
+XX
+NA  GGAANCGGAANY
+XX
+DE  GGAANCGGAANY
+XX
+BF  GGAANCGGAANY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    516      0      G
+01      0      0    516      0      G
+02    516      0      0      0      A
+03    516      0      0      0      A
+04     67    185    264      0      S
+05      0    516      0      0      C
+06      0      0    516      0      G
+07      0      0    516      0      G
+08    516      0      0      0      A
+09    516      0      0      0      A
+10    110     47    350      9      G
+11      0    228      0    288      Y
+XX
+CC  Total Information Content: 20.3301929929989.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0139
+XX
+ID  JM$AAAYWAACM
+XX
+NA  AAAYWAACM
+XX
+DE  AAAYWAACM
+XX
+BF  AAAYWAACM; Species: -.
+XX
+P0      A      C      G      T
+00    776      0      0      0      A
+01    776      0      0      0      A
+02    776      0      0      0      A
+03      0    415      0    361      Y
+04    657      0      0    119      A
+05    776      0      0      0      A
+06    776      0      0      0      A
+07      0    776      0      0      C
+08    578    198      0      0      A
+XX
+CC  Total Information Content: 15.5659877857067.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0093
+XX
+ID  JM$GGATTA
+XX
+NA  GGATTA
+XX
+DE  GGATTA
+XX
+BF  GGATTA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   1992      0      G
+01      0      0   1992      0      G
+02   1992      0      0      0      A
+03      0      0      0   1992      T
+04      0      0      0   1992      T
+05   1992      0      0      0      A
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0091
+XX
+ID  JM$GTGGGTGK
+XX
+NA  GTGGGTGK
+XX
+DE  GTGGGTGK
+XX
+BF  GTGGGTGK; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    944      0      G
+01      0      0      0    944      T
+02      0      0    944      0      G
+03      0      0    944      0      G
+04      0      0    944      0      G
+05      0      0      0    944      T
+06      0      0    944      0      G
+07      0      0    619    325      K
+XX
+CC  Total Information Content: 15.0711447112168.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0167
+XX
+ID  JM$CCTNTMAGA
+XX
+NA  CCTNTMAGA
+XX
+DE  CCTNTMAGA
+XX
+BF  CCTNTMAGA; Species: -.
+XX
+P0      A      C      G      T
+00      0    528      0      0      C
+01      0    528      0      0      C
+02      0      0      0    528      T
+03     23     59     98    348      T
+04      0      0      0    528      T
+05    383    145      0      0      A
+06    528      0      0      0      A
+07      0      0    528      0      G
+08    528      0      0      0      A
+XX
+CC  Total Information Content: 15.7543754111121.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0053
+XX
+ID  JM$RYTGCNNRGNAAC
+XX
+NA  RYTGCNNRGNAAC
+XX
+DE  RYTGCNNRGNAAC
+XX
+BF  RYTGCNNRGNAAC; Species: -.
+XX
+P0      A      C      G      T
+00     53      0    411      0      G
+01      0     73      0    391      T
+02      0      0      0    464      T
+03      0      0    464      0      G
+04      0    464      0      0      C
+05     41    206      9    208      Y
+06    171     54     98    141      D
+07    198      0    266      0      R
+08      0      0    464      0      G
+09     86    266     40     72      C
+10    464      0      0      0      A
+11    464      0      0      0      A
+12      0    464      0      0      C
+XX
+CC  Total Information Content: 18.8958345972212.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0005
+XX
+ID  JM$GATTGGY
+XX
+NA  GATTGGY
+XX
+DE  GATTGGY
+XX
+BF  GATTGGY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   6636      0      G
+01   6636      0      0      0      A
+02      0      0      0   6636      T
+03      0      0      0   6636      T
+04      0      0   6636      0      G
+05      0      0   6636      0      G
+06      0   4656      0   1980      C
+XX
+CC  Total Information Content: 13.1207076355866.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0165
+XX
+ID  JM$CCAWNWWNNNGGC
+XX
+NA  CCAWNWWNNNGGC
+XX
+DE  CCAWNWWNNNGGC
+XX
+BF  CCAWNWWNNNGGC; Species: -.
+XX
+P0      A      C      G      T
+00      0    328      0      0      C
+01      0    328      0      0      C
+02    328      0      0      0      A
+03    200      0      0    128      W
+04     40     89    111     88      B
+05    192      0      0    136      W
+06     86      0      0    242      T
+07     81     63    159     25      R
+08     45     60    177     46      G
+09     89    140     51     48      M
+10      0      0    328      0      G
+11      0      0    328      0      G
+12      0    328      0      0      C
+XX
+CC  Total Information Content: 15.9848802580746.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0052
+XX
+ID  JM$YYCATTCAWW
+XX
+NA  YYCATTCAWW
+XX
+DE  YYCATTCAWW
+XX
+BF  YYCATTCAWW; Species: -.
+XX
+P0      A      C      G      T
+00      0    307      0    309      Y
+01      0    269      0    347      Y
+02      0    616      0      0      C
+03    616      0      0      0      A
+04      0      0      0    616      T
+05      0      0      0    616      T
+06      0    616      0      0      C
+07    616      0      0      0      A
+08    127      0      0    489      T
+09    254      0      0    362      W
+XX
+CC  Total Information Content: 16.299797260239.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0077
+XX
+ID  JM$AAAYRNCTG
+XX
+NA  AAAYRNCTG
+XX
+DE  AAAYRNCTG
+XX
+BF  AAAYRNCTG; Species: -.
+XX
+P0      A      C      G      T
+00   1036      0      0      0      A
+01   1036      0      0      0      A
+02   1036      0      0      0      A
+03      0    495      0    541      Y
+04    620      0    416      0      R
+05    198    185    402    251      K
+06      0   1036      0      0      C
+07      0      0      0   1036      T
+08      0      0   1036      0      G
+XX
+CC  Total Information Content: 14.1039821338926.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0029
+XX
+ID  JM$CTTTAAR
+XX
+NA  CTTTAAR
+XX
+DE  CTTTAAR
+XX
+BF  CTTTAAR; Species: -.
+XX
+P0      A      C      G      T
+00      0   3588      0      0      C
+01      0      0      0   3588      T
+02      0      0      0   3588      T
+03      0      0      0   3588      T
+04   3588      0      0      0      A
+05   3588      0      0      0      A
+06   1993      0   1595      0      R
+XX
+CC  Total Information Content: 13.0088940575263.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0007
+XX
+ID  JM$TGANTCA
+XX
+NA  TGANTCA
+XX
+DE  TGANTCA
+XX
+BF  TGANTCA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   3620      T
+01      0      0   3620      0      G
+02   3620      0      0      0      A
+03    561   1156   1344    559      S
+04      0      0      0   3620      T
+05      0   3620      0      0      C
+06   3620      0      0      0      A
+XX
+CC  Total Information Content: 12.110349846871.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0027
+XX
+ID  JM$TGGNNNNNNKCCAR
+XX
+NA  TGGNNNNNNKCCAR
+XX
+DE  TGGNNNNNNKCCAR
+XX
+BF  TGGNNNNNNKCCAR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1640      T
+01      0      0   1640      0      G
+02      0      0   1640      0      G
+03    437    679    353    171      V
+04    351    465    388    436      N
+05    387    451    455    347      N
+06    298    526    547    269      V
+07    381    419    488    352      N
+08    441    330    498    371      N
+09      0      0    971    669      K
+10      0   1640      0      0      C
+11      0   1640      0      0      C
+12   1640      0      0      0      A
+13    469      0   1171      0      G
+XX
+CC  Total Information Content: 14.42554536176.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0152
+XX
+ID  JM$WCAANNNYCAG
+XX
+NA  WCAANNNYCAG
+XX
+DE  WCAANNNYCAG
+XX
+BF  WCAANNNYCAG; Species: -.
+XX
+P0      A      C      G      T
+00    651      0      0    249      A
+01      0    900      0      0      C
+02    900      0      0      0      A
+03    900      0      0      0      A
+04    312    279    157    152      V
+05    143     98    179    480      T
+06     89    554    105    152      C
+07      0    691      0    209      C
+08      0    900      0      0      C
+09    900      0      0      0      A
+10      0      0    900      0      G
+XX
+CC  Total Information Content: 15.1677708035863.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0083
+XX
+ID  JM$TGTTTGY
+XX
+NA  TGTTTGY
+XX
+DE  TGTTTGY
+XX
+BF  TGTTTGY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2448      T
+01      0      0   2448      0      G
+02      0      0      0   2448      T
+03      0      0      0   2448      T
+04      0      0      0   2448      T
+05      0      0   2448      0      G
+06      0   1142      0   1306      Y
+XX
+CC  Total Information Content: 13.0032399233547.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0146
+XX
+ID  JM$RRCCGTTA
+XX
+NA  RRCCGTTA
+XX
+DE  RRCCGTTA
+XX
+BF  RRCCGTTA; Species: -.
+XX
+P0      A      C      G      T
+00    155      0    289      0      R
+01    208      0    236      0      R
+02      0    444      0      0      C
+03      0    444      0      0      C
+04      0      0    444      0      G
+05      0      0      0    444      T
+06      0      0      0    444      T
+07    444      0      0      0      A
+XX
+CC  Total Information Content: 14.0696097674866.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0017
+XX
+ID  JM$AACTTT
+XX
+NA  AACTTT
+XX
+DE  AACTTT
+XX
+BF  AACTTT; Species: -.
+XX
+P0      A      C      G      T
+00   8768      0      0      0      A
+01   8768      0      0      0      A
+02      0   8768      0      0      C
+03      0      0      0   8768      T
+04      0      0      0   8768      T
+05      0      0      0   8768      T
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0042
+XX
+ID  JM$TGACATY
+XX
+NA  TGACATY
+XX
+DE  TGACATY
+XX
+BF  TGACATY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2500      T
+01      0      0   2500      0      G
+02   2500      0      0      0      A
+03      0   2500      0      0      C
+04   2500      0      0      0      A
+05      0      0      0   2500      T
+06      0   1416      0   1084      Y
+XX
+CC  Total Information Content: 13.0127592283486.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0105
+XX
+ID  JM$ACTWSNACTNY
+XX
+NA  ACTWSNACTNY
+XX
+DE  ACTWSNACTNY
+XX
+BF  ACTWSNACTNY; Species: -.
+XX
+P0      A      C      G      T
+00    396      0      0      0      A
+01      0    396      0      0      C
+02      0      0      0    396      T
+03    319      0      0     77      A
+04      0    374     22      0      C
+05    292     47     44     13      A
+06    396      0      0      0      A
+07      0    396      0      0      C
+08      0      0      0    396      T
+09     14    324      6     52      C
+10      0    377      0     19      C
+XX
+CC  Total Information Content: 18.6154406563166.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0102
+XX
+ID  JM$ATGGYGGA
+XX
+NA  ATGGYGGA
+XX
+DE  ATGGYGGA
+XX
+BF  ATGGYGGA; Species: -.
+XX
+P0      A      C      G      T
+00    476      0      0      0      A
+01      0      0      0    476      T
+02      0      0    476      0      G
+03      0      0    476      0      G
+04      0    401      0     75      C
+05      0      0    476      0      G
+06      0      0    476      0      G
+07    476      0      0      0      A
+XX
+CC  Total Information Content: 15.371552469456.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0019
+XX
+ID  JM$GKCGCNNNNNNNTGAYG
+XX
+NA  GKCGCNNNNNNNTGAYG
+XX
+DE  GKCGCNNNNNNNTGAYG
+XX
+BF  GKCGCNNNNNNNTGAYG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    316      0      G
+01      0      0    201    115      K
+02      0    316      0      0      C
+03      0      0    316      0      G
+04      0    316      0      0      C
+05     44     66    169     37      G
+06     14    111    129     62      S
+07     74     84    129     29      V
+08     39    111    112     54      S
+09     33     90     78    115      B
+10     92     14    154     56      R
+11    170     32    101     13      R
+12      0      0      0    316      T
+13      0      0    316      0      G
+14    316      0      0      0      A
+15      0    294      0     22      C
+16      0      0    316      0      G
+XX
+CC  Total Information Content: 20.4656414702423.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0096
+XX
+ID  JM$YGCANTGCR
+XX
+NA  YGCANTGCR
+XX
+DE  YGCANTGCR
+XX
+BF  YGCANTGCR; Species: -.
+XX
+P0      A      C      G      T
+00      0    287      0    241      Y
+01      0      0    528      0      G
+02      0    528      0      0      C
+03    528      0      0      0      A
+04     62    135    174    157      B
+05      0      0      0    528      T
+06      0      0    528      0      G
+07      0    528      0      0      C
+08    277      0    251      0      R
+XX
+CC  Total Information Content: 14.0932504690537.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0087
+XX
+ID  JM$RYTGCNWTGGNR
+XX
+NA  RYTGCNWTGGNR
+XX
+DE  RYTGCNWTGGNR
+XX
+BF  RYTGCNWTGGNR; Species: -.
+XX
+P0      A      C      G      T
+00     76      0    384      0      G
+01      0    149      0    311      T
+02      0      0      0    460      T
+03      0      0    460      0      G
+04      0    460      0      0      C
+05     44    300     17     99      C
+06    402      0      0     58      A
+07      0      0      0    460      T
+08      0      0    460      0      G
+09      0      0    460      0      G
+10     99    234     61     66      C
+11    233      0    227      0      R
+XX
+CC  Total Information Content: 17.7580202976952.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0059
+XX
+ID  JM$WCTCNATGGY
+XX
+NA  WCTCNATGGY
+XX
+DE  WCTCNATGGY
+XX
+BF  WCTCNATGGY; Species: -.
+XX
+P0      A      C      G      T
+00     42      0      0    286      T
+01      0    328      0      0      C
+02      0      0      0    328      T
+03      0    328      0      0      C
+04      4    128     34    162      Y
+05    328      0      0      0      A
+06      0      0      0    328      T
+07      0      0    328      0      G
+08      0      0    328      0      G
+09      0    124      0    204      Y
+XX
+CC  Total Information Content: 17.0423594843022.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0094
+XX
+ID  JM$TGATTTRY
+XX
+NA  TGATTTRY
+XX
+DE  TGATTTRY
+XX
+BF  TGATTTRY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    940      T
+01      0      0    940      0      G
+02    940      0      0      0      A
+03      0      0      0    940      T
+04      0      0      0    940      T
+05      0      0      0    940      T
+06    481      0    459      0      R
+07      0    321      0    619      Y
+XX
+CC  Total Information Content: 14.0741583645298.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0003
+XX
+ID  JM$SCGGAAGY
+XX
+NA  SCGGAAGY
+XX
+DE  SCGGAAGY
+XX
+BF  SCGGAAGY; Species: -.
+XX
+P0      A      C      G      T
+00      0   4724   1824      0      C
+01      0   6548      0      0      C
+02      0      0   6548      0      G
+03      0      0   6548      0      G
+04   6548      0      0      0      A
+05   6548      0      0      0      A
+06      0      0   6548      0      G
+07      0   2269      0   4279      Y
+XX
+CC  Total Information Content: 14.215601148395.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0117
+XX
+ID  JM$TGTYNNNNNRGCARM
+XX
+NA  TGTYNNNNNRGCARM
+XX
+DE  TGTYNNNNNRGCARM
+XX
+BF  TGTYNNNNNRGCARM; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    256      T
+01      0      0    256      0      G
+02      0      0      0    256      T
+03      0    100      0    156      Y
+04     55     26     71    104      D
+05     23    109     35     89      Y
+06     33    120     60     43      S
+07    117     54     53     32      A
+08     63     61     34     98      H
+09    136      0    120      0      R
+10      0      0    256      0      G
+11      0    256      0      0      C
+12    256      0      0      0      A
+13    139      0    117      0      R
+14     80    176      0      0      C
+XX
+CC  Total Information Content: 16.9753244542901.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0064
+XX
+ID  JM$TTANTCA
+XX
+NA  TTANTCA
+XX
+DE  TTANTCA
+XX
+BF  TTANTCA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2924      T
+01      0      0      0   2924      T
+02   2924      0      0      0      A
+03    815    581    665    863      N
+04      0      0      0   2924      T
+05      0   2924      0      0      C
+06   2924      0      0      0      A
+XX
+CC  Total Information Content: 12.0175401946116.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0147
+XX
+ID  JM$YAATNANRNNNCAG
+XX
+NA  YAATNANRNNNCAG
+XX
+DE  YAATNANRNNNCAG
+XX
+BF  YAATNANRNNNCAG; Species: -.
+XX
+P0      A      C      G      T
+00      0    113      0     87      Y
+01    200      0      0      0      A
+02    200      0      0      0      A
+03      0      0      0    200      T
+04     52     86     45     17      V
+05    200      0      0      0      A
+06     46     42     74     38      N
+07    112      0     88      0      R
+08     55     52     58     35      N
+09     59     36     57     48      N
+10     27     67     83     23      S
+11      0    200      0      0      C
+12    200      0      0      0      A
+13      0      0    200      0      G
+XX
+CC  Total Information Content: 16.5063350145917.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0130
+XX
+ID  JM$CCCNNGGGAR
+XX
+NA  CCCNNGGGAR
+XX
+DE  CCCNNGGGAR
+XX
+BF  CCCNNGGGAR; Species: -.
+XX
+P0      A      C      G      T
+00      0   1236      0      0      C
+01      0   1236      0      0      C
+02      0   1236      0      0      C
+03    248    471    250    267      N
+04    287    213    514    222      R
+05      0      0   1236      0      G
+06      0      0   1236      0      G
+07      0      0   1236      0      G
+08   1236      0      0      0      A
+09    483      0    753      0      R
+XX
+CC  Total Information Content: 15.1978017393408.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0073
+XX
+ID  JM$CTTTGA
+XX
+NA  CTTTGA
+XX
+DE  CTTTGA
+XX
+BF  CTTTGA; Species: -.
+XX
+P0      A      C      G      T
+00      0   4260      0      0      C
+01      0      0      0   4260      T
+02      0      0      0   4260      T
+03      0      0      0   4260      T
+04      0      0   4260      0      G
+05   4260      0      0      0      A
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0162
+XX
+ID  JM$TAANNYSGCG
+XX
+NA  TAANNYSGCG
+XX
+DE  TAANNYSGCG
+XX
+BF  TAANNYSGCG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    420      T
+01    420      0      0      0      A
+02    420      0      0      0      A
+03     80    154    110     76      V
+04    244     66     54     56      A
+05      0    134      0    286      T
+06      0    108    312      0      G
+07      0      0    420      0      G
+08      0    420      0      0      C
+09      0      0    420      0      G
+XX
+CC  Total Information Content: 14.692517104862.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0089
+XX
+ID  JM$GTTNYYNNGGTNA
+XX
+NA  GTTNYYNNGGTNA
+XX
+DE  GTTNYYNNGGTNA
+XX
+BF  GTTNYYNNGGTNA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    364      0      G
+01      0      0      0    364      T
+02      0      0      0    364      T
+03     78     30    188     68      G
+04      0    287      0     77      C
+05      0    226      0    138      Y
+06    190     78     51     45      A
+07    100     38     58    168      W
+08      0      0    364      0      G
+09      0      0    364      0      G
+10      0      0      0    364      T
+11    163     30     96     75      R
+12    364      0      0      0      A
+XX
+CC  Total Information Content: 17.2628290239644.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0025
+XX
+ID  JM$TGACCTY
+XX
+NA  TGACCTY
+XX
+DE  TGACCTY
+XX
+BF  TGACCTY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   3728      T
+01      0      0   3728      0      G
+02   3728      0      0      0      A
+03      0   3728      0      0      C
+04      0   3728      0      0      C
+05      0      0      0   3728      T
+06      0   1530      0   2198      Y
+XX
+CC  Total Information Content: 13.0232859340055.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0001
+XX
+ID  JM$RCGCANGCGY
+XX
+NA  RCGCANGCGY
+XX
+DE  RCGCANGCGY
+XX
+BF  RCGCANGCGY; Species: -.
+XX
+P0      A      C      G      T
+00    844      0   4780      0      G
+01      0   5624      0      0      C
+02      0      0   5624      0      G
+03      0   5624      0      0      C
+04   5624      0      0      0      A
+05    437   1067   2399   1721      K
+06      0      0   5624      0      G
+07      0   5624      0      0      C
+08      0      0   5624      0      G
+09      0   4888      0    736      C
+XX
+CC  Total Information Content: 17.0417134599259.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0138
+XX
+ID  JM$MYAATNNNNNNNGGC
+XX
+NA  MYAATNNNNNNNGGC
+XX
+DE  MYAATNNNNNNNGGC
+XX
+BF  MYAATNNNNNNNGGC; Species: -.
+XX
+P0      A      C      G      T
+00    168    316      0      0      M
+01      0    368      0    116      C
+02    484      0      0      0      A
+03    484      0      0      0      A
+04      0      0      0    484      T
+05     88    159    170     67      V
+06    135    135    157     57      V
+07     53    118    272     41      G
+08    164    154     98     68      V
+09     99     75    242     68      G
+10     85    142    213     44      S
+11    134    165    120     65      V
+12      0      0    484      0      G
+13      0      0    484      0      G
+14      0    484      0      0      C
+XX
+CC  Total Information Content: 15.4141113795629.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0039
+XX
+ID  JM$TCCCRNNRTGC
+XX
+NA  TCCCRNNRTGC
+XX
+DE  TCCCRNNRTGC
+XX
+BF  TCCCRNNRTGC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1024      T
+01      0   1024      0      0      C
+02      0   1024      0      0      C
+03      0   1024      0      0      C
+04    662      0    362      0      R
+05    125    137    598    164      G
+06    234    515    231     44      C
+07    727      0    297      0      A
+08      0      0      0   1024      T
+09      0      0   1024      0      G
+10      0   1024      0      0      C
+XX
+CC  Total Information Content: 16.8939815609571.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0063
+XX
+ID  JM$AAGWWRNYGGC
+XX
+NA  AAGWWRNYGGC
+XX
+DE  AAGWWRNYGGC
+XX
+BF  AAGWWRNYGGC; Species: -.
+XX
+P0      A      C      G      T
+00    536      0      0      0      A
+01    536      0      0      0      A
+02      0      0    536      0      G
+03    444      0      0     92      A
+04     95      0      0    441      T
+05     76      0    460      0      G
+06     44     37    416     39      G
+07      0    369      0    167      C
+08      0      0    536      0      G
+09      0      0    536      0      G
+10      0    536      0      0      C
+XX
+CC  Total Information Content: 18.0595027713403.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0016
+XX
+ID  JM$RYTTCCTG
+XX
+NA  RYTTCCTG
+XX
+DE  RYTTCCTG
+XX
+BF  RYTTCCTG; Species: -.
+XX
+P0      A      C      G      T
+00   2493      0   2019      0      R
+01      0   2704      0   1808      Y
+02      0      0      0   4512      T
+03      0      0      0   4512      T
+04      0   4512      0      0      C
+05      0   4512      0      0      C
+06      0      0      0   4512      T
+07      0      0   4512      0      G
+XX
+CC  Total Information Content: 14.0366116741218.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0056
+XX
+ID  JM$GGGTGGRR
+XX
+NA  GGGTGGRR
+XX
+DE  GGGTGGRR
+XX
+BF  GGGTGGRR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   5364      0      G
+01      0      0   5364      0      G
+02      0      0   5364      0      G
+03      0      0      0   5364      T
+04      0      0   5364      0      G
+05      0      0   5364      0      G
+06   1339      0   4025      0      G
+07   1183      0   4181      0      G
+XX
+CC  Total Information Content: 14.4281531120845.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0107
+XX
+ID  JM$RTTTNNNYTGGM
+XX
+NA  RTTTNNNYTGGM
+XX
+DE  RTTTNNNYTGGM
+XX
+BF  RTTTNNNYTGGM; Species: -.
+XX
+P0      A      C      G      T
+00    185      0    179      0      R
+01      0      0      0    364      T
+02      0      0      0    364      T
+03      0      0      0    364      T
+04     87     72    113     92      N
+05     49    139     67    109      Y
+06    108     70     42    144      W
+07      0    100      0    264      T
+08      0      0      0    364      T
+09      0      0    364      0      G
+10      0      0    364      0      G
+11    216    148      0      0      M
+XX
+CC  Total Information Content: 15.4395660004642.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0100
+XX
+ID  JM$CRGAARNNNNCGA
+XX
+NA  CRGAARNNNNCGA
+XX
+DE  CRGAARNNNNCGA
+XX
+BF  CRGAARNNNNCGA; Species: -.
+XX
+P0      A      C      G      T
+00      0    268      0      0      C
+01     40      0    228      0      G
+02      0      0    268      0      G
+03    268      0      0      0      A
+04    268      0      0      0      A
+05    178      0     90      0      R
+06     30     82     70     86      B
+07     94     32     58     84      D
+08     46     48    163     11      G
+09     18    197     38     15      C
+10      0    268      0      0      C
+11      0      0    268      0      G
+12    268      0      0      0      A
+XX
+CC  Total Information Content: 17.9373932225313.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0116
+XX
+ID  JM$KMCATNNWGGA
+XX
+NA  KMCATNNWGGA
+XX
+DE  KMCATNNWGGA
+XX
+BF  KMCATNNWGGA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    247    129      K
+01     57    319      0      0      C
+02      0    376      0      0      C
+03    376      0      0      0      A
+04      0      0      0    376      T
+05     35    134     91    116      B
+06     28     65     57    226      T
+07    114      0      0    262      T
+08      0      0    376      0      G
+09      0      0    376      0      G
+10    376      0      0      0      A
+XX
+CC  Total Information Content: 16.1343473680798.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0125
+XX
+ID  JM$RAAGNYNNCTTY
+XX
+NA  RAAGNYNNCTTY
+XX
+DE  RAAGNYNNCTTY
+XX
+BF  RAAGNYNNCTTY; Species: -.
+XX
+P0      A      C      G      T
+00    292      0    224      0      R
+01    516      0      0      0      A
+02    516      0      0      0      A
+03      0      0    516      0      G
+04     79    103    177    157      B
+05      0    224      0    292      Y
+06    148    104    132    132      N
+07    121    144    116    135      N
+08      0    516      0      0      C
+09      0      0      0    516      T
+10      0      0      0    516      T
+11      0    230      0    286      Y
+XX
+CC  Total Information Content: 15.1198084909393.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0046
+XX
+ID  JM$WTTGKCTG
+XX
+NA  WTTGKCTG
+XX
+DE  WTTGKCTG
+XX
+BF  WTTGKCTG; Species: -.
+XX
+P0      A      C      G      T
+00   1624      0      0    548      A
+01      0      0      0   2172      T
+02      0      0      0   2172      T
+03      0      0   2172      0      G
+04      0      0   1643    529      G
+05      0   2172      0      0      C
+06      0      0      0   2172      T
+07      0      0   2172      0      G
+XX
+CC  Total Information Content: 14.3841923888905.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0068
+XX
+ID  JM$RGAANNTTC
+XX
+NA  RGAANNTTC
+XX
+DE  RGAANNTTC
+XX
+BF  RGAANNTTC; Species: -.
+XX
+P0      A      C      G      T
+00   1145      0   1327      0      R
+01      0      0   2472      0      G
+02   2472      0      0      0      A
+03   2472      0      0      0      A
+04    811    570    642    449      N
+05    479    672    645    676      N
+06      0      0      0   2472      T
+07      0      0      0   2472      T
+08      0   2472      0      0      C
+XX
+CC  Total Information Content: 13.0493301441172.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0136
+XX
+ID  JM$TAAYNRNNTCC
+XX
+NA  TAAYNRNNTCC
+XX
+DE  TAAYNRNNTCC
+XX
+BF  TAAYNRNNTCC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    532      T
+01    532      0      0      0      A
+02    532      0      0      0      A
+03      0    175      0    357      T
+04    150     92     83    207      W
+05    308      0    224      0      R
+06    107    191    120    114      N
+07    123    142     84    183      H
+08      0      0      0    532      T
+09      0    532      0      0      C
+10      0    532      0      0      C
+XX
+CC  Total Information Content: 14.2994433643608.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0080
+XX
+ID  JM$SNACANNNYSYAGA
+XX
+NA  SNACANNNYSYAGA
+XX
+DE  SNACANNNYSYAGA
+XX
+BF  SNACANNNYSYAGA; Species: -.
+XX
+P0      A      C      G      T
+00      0    359     29      0      C
+01      1     49     24    314      T
+02    388      0      0      0      A
+03      0    388      0      0      C
+04    388      0      0      0      A
+05    200     46     44     98      A
+06     50    129     47    162      Y
+07     26     49     14    299      T
+08      0    328      0     60      C
+09      0    371     17      0      C
+10      0    384      0      4      C
+11    388      0      0      0      A
+12      0      0    388      0      G
+13    388      0      0      0      A
+XX
+CC  Total Information Content: 21.1382301888602.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0074
+XX
+ID  JM$GGAMTNNNNNTCCY
+XX
+NA  GGAMTNNNNNTCCY
+XX
+DE  GGAMTNNNNNTCCY
+XX
+BF  GGAMTNNNNNTCCY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    548      0      G
+01      0      0    548      0      G
+02    548      0      0      0      A
+03     94    454      0      0      C
+04      0      0      0    548      T
+05    272    171     47     58      M
+06     17    437     41     53      C
+07    329     37    135     47      A
+08    181     52     86    229      W
+09     38    165     66    279      Y
+10      0      0      0    548      T
+11      0    548      0      0      C
+12      0    548      0      0      C
+13      0    518      0     30      C
+XX
+CC  Total Information Content: 19.3843172792854.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0098
+XX
+ID  JM$GTCNYYATGR
+XX
+NA  GTCNYYATGR
+XX
+DE  GTCNYYATGR
+XX
+BF  GTCNYYATGR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    484      0      G
+01      0      0      0    484      T
+02      0    484      0      0      C
+03     85     28    126    245      K
+04      0    433      0     51      C
+05      0    361      0    123      C
+06    484      0      0      0      A
+07      0      0      0    484      T
+08      0      0    484      0      G
+09     87      0    397      0      G
+XX
+CC  Total Information Content: 16.3356838349734.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0085
+XX
+ID  JM$STTTCRNTTT
+XX
+NA  STTTCRNTTT
+XX
+DE  STTTCRNTTT
+XX
+BF  STTTCRNTTT; Species: -.
+XX
+P0      A      C      G      T
+00      0    395    237      0      S
+01      0      0      0    632      T
+02      0      0      0    632      T
+03      0      0      0    632      T
+04      0    632      0      0      C
+05    400      0    232      0      R
+06     63    228    179    162      B
+07      0      0      0    632      T
+08      0      0      0    632      T
+09      0      0      0    632      T
+XX
+CC  Total Information Content: 16.2160430288651.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0156
+XX
+ID  JM$YRCCAKNNGNCGC
+XX
+NA  YRCCAKNNGNCGC
+XX
+DE  YRCCAKNNGNCGC
+XX
+BF  YRCCAKNNGNCGC; Species: -.
+XX
+P0      A      C      G      T
+00      0    253      0     39      C
+01    117      0    175      0      R
+02      0    292      0      0      C
+03      0    292      0      0      C
+04    292      0      0      0      A
+05      0      0    243     49      G
+06     39     68    169     16      G
+07      4     47    138    103      K
+08      0      0    292      0      G
+09     28     95    152     17      S
+10      0    292      0      0      C
+11      0      0    292      0      G
+12      0    292      0      0      C
+XX
+CC  Total Information Content: 19.114358671457.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0045
+XX
+ID  JM$CCANNAGRKGGC
+XX
+NA  CCANNAGRKGGC
+XX
+DE  CCANNAGRKGGC
+XX
+BF  CCANNAGRKGGC; Species: -.
+XX
+P0      A      C      G      T
+00      0    284      0      0      C
+01      0    284      0      0      C
+02    284      0      0      0      A
+03      8    139    126     11      S
+04     44    153     30     57      C
+05    284      0      0      0      A
+06      0      0    284      0      G
+07    144      0    140      0      R
+08      0      0    160    124      K
+09      0      0    284      0      G
+10      0      0    284      0      G
+11      0    284      0      0      C
+XX
+CC  Total Information Content: 18.9552307732213.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0079
+XX
+ID  JM$WGGAATGY
+XX
+NA  WGGAATGY
+XX
+DE  WGGAATGY
+XX
+BF  WGGAATGY; Species: -.
+XX
+P0      A      C      G      T
+00    666      0      0    482      W
+01      0      0   1148      0      G
+02      0      0   1148      0      G
+03   1148      0      0      0      A
+04   1148      0      0      0      A
+05      0      0      0   1148      T
+06      0      0   1148      0      G
+07      0    489      0    659      Y
+XX
+CC  Total Information Content: 14.0344876453022.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0070
+XX
+ID  JM$CGTSACG
+XX
+NA  CGTSACG
+XX
+DE  CGTSACG
+XX
+BF  CGTSACG; Species: -.
+XX
+P0      A      C      G      T
+00      0    700      0      0      C
+01      0      0    700      0      G
+02      0      0      0    700      T
+03      0    320    380      0      S
+04    700      0      0      0      A
+05      0    700      0      0      C
+06      0      0    700      0      G
+XX
+CC  Total Information Content: 13.0053062046387.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0112
+XX
+ID  JM$KTGGYRSGAA
+XX
+NA  KTGGYRSGAA
+XX
+DE  KTGGYRSGAA
+XX
+BF  KTGGYRSGAA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    146    162      K
+01      0      0      0    308      T
+02      0      0    308      0      G
+03      0      0    308      0      G
+04      0    246      0     62      C
+05     52      0    256      0      G
+06      0     67    241      0      G
+07      0      0    308      0      G
+08    308      0      0      0      A
+09    308      0      0      0      A
+XX
+CC  Total Information Content: 16.8667694111057.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0020
+XX
+ID  JM$GTGACGY
+XX
+NA  GTGACGY
+XX
+DE  GTGACGY
+XX
+BF  GTGACGY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   3432      0      G
+01      0      0      0   3432      T
+02      0      0   3432      0      G
+03   3432      0      0      0      A
+04      0   3432      0      0      C
+05      0      0   3432      0      G
+06      0   1434      0   1998      Y
+XX
+CC  Total Information Content: 13.0195695082253.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0113
+XX
+ID  JM$AACYNNNNTTCCS
+XX
+NA  AACYNNNNTTCCS
+XX
+DE  AACYNNNNTTCCS
+XX
+BF  AACYNNNNTTCCS; Species: -.
+XX
+P0      A      C      G      T
+00    412      0      0      0      A
+01    412      0      0      0      A
+02      0    412      0      0      C
+03      0     62      0    350      T
+04    270     61     41     40      A
+05     16    356     19     21      C
+06    269     81     45     17      A
+07     95     83     31    203      T
+08      0      0      0    412      T
+09      0      0      0    412      T
+10      0    412      0      0      C
+11      0    412      0      0      C
+12      0    381     31      0      C
+XX
+CC  Total Information Content: 19.611252601661.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0129
+XX
+ID  JM$RRAGTTGT
+XX
+NA  RRAGTTGT
+XX
+DE  RRAGTTGT
+XX
+BF  RRAGTTGT; Species: -.
+XX
+P0      A      C      G      T
+00    334      0    554      0      R
+01    450      0    438      0      R
+02    888      0      0      0      A
+03      0      0    888      0      G
+04      0      0      0    888      T
+05      0      0      0    888      T
+06      0      0    888      0      G
+07      0      0      0    888      T
+XX
+CC  Total Information Content: 14.0448717153072.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0103
+XX
+ID  JM$ACAWNRNSRCGG
+XX
+NA  ACAWNRNSRCGG
+XX
+DE  ACAWNRNSRCGG
+XX
+BF  ACAWNRNSRCGG; Species: -.
+XX
+P0      A      C      G      T
+00    244      0      0      0      A
+01      0    244      0      0      C
+02    244      0      0      0      A
+03    208      0      0     36      A
+04     78     26    118     22      R
+05    160      0     84      0      R
+06     10     44     42    148      T
+07      0     34    210      0      G
+08      8      0    236      0      G
+09      0    244      0      0      C
+10      0      0    244      0      G
+11      0      0    244      0      G
+XX
+CC  Total Information Content: 18.4778049020768.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0054
+XX
+ID  JM$TAAWWATAG
+XX
+NA  TAAWWATAG
+XX
+DE  TAAWWATAG
+XX
+BF  TAAWWATAG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    508      T
+01    508      0      0      0      A
+02    508      0      0      0      A
+03    436      0      0     72      A
+04    336      0      0    172      W
+05    508      0      0      0      A
+06      0      0      0    508      T
+07    508      0      0      0      A
+08      0      0    508      0      G
+XX
+CC  Total Information Content: 16.4877864484419.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0159
+XX
+ID  JM$GGCKCATGS
+XX
+NA  GGCKCATGS
+XX
+DE  GGCKCATGS
+XX
+BF  GGCKCATGS; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    288      0      G
+01      0      0    288      0      G
+02      0    288      0      0      C
+03      0      0    256     32      G
+04      0    288      0      0      C
+05    288      0      0      0      A
+06      0      0      0    288      T
+07      0      0    288      0      G
+08      0    241     47      0      C
+XX
+CC  Total Information Content: 16.8548444626024.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0119
+XX
+ID  JM$GGGNRMNNYCAT
+XX
+NA  GGGNRMNNYCAT
+XX
+DE  GGGNRMNNYCAT
+XX
+BF  GGGNRMNNYCAT; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    320      0      G
+01      0      0    320      0      G
+02      0      0    320      0      G
+03     62    172     49     37      C
+04     53      0    267      0      G
+05     88    232      0      0      C
+06     62    165     54     39      C
+07     39     41    204     36      G
+08      0    249      0     71      C
+09      0    320      0      0      C
+10    320      0      0      0      A
+11      0      0      0    320      T
+XX
+CC  Total Information Content: 16.7523948696153.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0066
+XX
+ID  JM$RACTNNRTTTNC
+XX
+NA  RACTNNRTTTNC
+XX
+DE  RACTNNRTTTNC
+XX
+BF  RACTNNRTTTNC; Species: -.
+XX
+P0      A      C      G      T
+00    193      0    295      0      R
+01    488      0      0      0      A
+02      0    488      0      0      C
+03      0      0      0    488      T
+04    261    128     42     57      A
+05     36    382     28     42      C
+06    409      0     79      0      A
+07      0      0      0    488      T
+08      0      0      0    488      T
+09      0      0      0    488      T
+10     31    400     17     40      C
+11      0    488      0      0      C
+XX
+CC  Total Information Content: 18.6898753297241.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0013
+XX
+ID  JM$CTTTGT
+XX
+NA  CTTTGT
+XX
+DE  CTTTGT
+XX
+BF  CTTTGT; Species: -.
+XX
+P0      A      C      G      T
+00      0   9424      0      0      C
+01      0      0      0   9424      T
+02      0      0      0   9424      T
+03      0      0      0   9424      T
+04      0      0   9424      0      G
+05      0      0      0   9424      T
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0163
+XX
+ID  JM$GGARNTKYCCA
+XX
+NA  GGARNTKYCCA
+XX
+DE  GGARNTKYCCA
+XX
+BF  GGARNTKYCCA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    244      0      G
+01      0      0    244      0      G
+02    244      0      0      0      A
+03    116      0    128      0      R
+04     74     81     41     48      N
+05      0      0      0    244      T
+06      0      0     94    150      K
+07      0     96      0    148      Y
+08      0    244      0      0      C
+09      0    244      0      0      C
+10    244      0      0      0      A
+XX
+CC  Total Information Content: 17.12910262009.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0134
+XX
+ID  JM$CATRRAGC
+XX
+NA  CATRRAGC
+XX
+DE  CATRRAGC
+XX
+BF  CATRRAGC; Species: -.
+XX
+P0      A      C      G      T
+00      0    492      0      0      C
+01    492      0      0      0      A
+02      0      0      0    492      T
+03    161      0    331      0      G
+04    240      0    252      0      R
+05    492      0      0      0      A
+06      0      0    492      0      G
+07      0    492      0      0      C
+XX
+CC  Total Information Content: 14.0883519500891.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0049
+XX
+ID  JM$CATTGTYY
+XX
+NA  CATTGTYY
+XX
+DE  CATTGTYY
+XX
+BF  CATTGTYY; Species: -.
+XX
+P0      A      C      G      T
+00      0   1404      0      0      C
+01   1404      0      0      0      A
+02      0      0      0   1404      T
+03      0      0      0   1404      T
+04      0      0   1404      0      G
+05      0      0      0   1404      T
+06      0    579      0    825      Y
+07      0    709      0    695      Y
+XX
+CC  Total Information Content: 14.0223316971708.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0143
+XX
+ID  JM$CAGNWMCNNNGAC
+XX
+NA  CAGNWMCNNNGAC
+XX
+DE  CAGNWMCNNNGAC
+XX
+BF  CAGNWMCNNNGAC; Species: -.
+XX
+P0      A      C      G      T
+00      0    280      0      0      C
+01    280      0      0      0      A
+02      0      0    280      0      G
+03     25    217     26     12      C
+04    264      0      0     16      A
+05     20    260      0      0      C
+06      0    280      0      0      C
+07    135     31     52     62      A
+08     73     95     45     67      H
+09     32      1    212     35      G
+10      0      0    280      0      G
+11    280      0      0      0      A
+12      0    280      0      0      C
+XX
+CC  Total Information Content: 19.3939103130365.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0060
+XX
+ID  JM$TTGTTT
+XX
+NA  TTGTTT
+XX
+DE  TTGTTT
+XX
+BF  TTGTTT; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   7452      T
+01      0      0      0   7452      T
+02      0      0   7452      0      G
+03      0      0      0   7452      T
+04      0      0      0   7452      T
+05      0      0      0   7452      T
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0076
+XX
+ID  JM$CAGGTA
+XX
+NA  CAGGTA
+XX
+DE  CAGGTA
+XX
+BF  CAGGTA; Species: -.
+XX
+P0      A      C      G      T
+00      0   2472      0      0      C
+01   2472      0      0      0      A
+02      0      0   2472      0      G
+03      0      0   2472      0      G
+04      0      0      0   2472      T
+05   2472      0      0      0      A
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0008
+XX
+ID  JM$TMTCGCGANR
+XX
+NA  TMTCGCGANR
+XX
+DE  TMTCGCGANR
+XX
+BF  TMTCGCGANR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1592      T
+01    145   1447      0      0      C
+02      0      0      0   1592      T
+03      0   1592      0      0      C
+04      0      0   1592      0      G
+05      0   1592      0      0      C
+06      0      0   1592      0      G
+07   1592      0      0      0      A
+08     30     77   1302    183      G
+09   1365      0    227      0      A
+XX
+CC  Total Information Content: 18.0536165315128.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0011
+XX
+ID  JM$MGGAAGTG
+XX
+NA  MGGAAGTG
+XX
+DE  MGGAAGTG
+XX
+BF  MGGAAGTG; Species: -.
+XX
+P0      A      C      G      T
+00   1451   2281      0      0      M
+01      0      0   3732      0      G
+02      0      0   3732      0      G
+03   3732      0      0      0      A
+04   3732      0      0      0      A
+05      0      0   3732      0      G
+06      0      0      0   3732      T
+07      0      0   3732      0      G
+XX
+CC  Total Information Content: 15.0359795013411.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0037
+XX
+ID  JM$GTTRYCATRR
+XX
+NA  GTTRYCATRR
+XX
+DE  GTTRYCATRR
+XX
+BF  GTTRYCATRR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    652      0      G
+01      0      0      0    652      T
+02      0      0      0    652      T
+03    145      0    507      0      G
+04      0    558      0     94      C
+05      0    652      0      0      C
+06    652      0      0      0      A
+07      0      0      0    652      T
+08    168      0    484      0      G
+09    113      0    539      0      G
+XX
+CC  Total Information Content: 17.1519912622406.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0015
+XX
+ID  JM$CAGCTG
+XX
+NA  CAGCTG
+XX
+DE  CAGCTG
+XX
+BF  CAGCTG; Species: -.
+XX
+P0      A      C      G      T
+00      0   6436      0      0      C
+01   6436      0      0      0      A
+02      0      0   6436      0      G
+03      0   6436      0      0      C
+04      0      0      0   6436      T
+05      0      0   6436      0      G
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0041
+XX
+ID  JM$TGACAGNY
+XX
+NA  TGACAGNY
+XX
+DE  TGACAGNY
+XX
+BF  TGACAGNY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   3392      T
+01      0      0   3392      0      G
+02   3392      0      0      0      A
+03      0   3392      0      0      C
+04   3392      0      0      0      A
+05      0      0   3392      0      G
+06    420   1408   1072    492      S
+07      0   1569      0   1823      Y
+XX
+CC  Total Information Content: 13.1751339381587.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0150
+XX
+ID  JM$YTTCCNNNGGAMR
+XX
+NA  YTTCCNNNGGAMR
+XX
+DE  YTTCCNNNGGAMR
+XX
+BF  YTTCCNNNGGAMR; Species: -.
+XX
+P0      A      C      G      T
+00      0    209      0    183      Y
+01      0      0      0    392      T
+02      0      0      0    392      T
+03      0    392      0      0      C
+04      0    392      0      0      C
+05     70     46    108    168      K
+06     44    148    159     41      S
+07    172     92     70     58      M
+08      0      0    392      0      G
+09      0      0    392      0      G
+10    392      0      0      0      A
+11    328     64      0      0      A
+12    199      0    193      0      R
+XX
+CC  Total Information Content: 17.9010562177425.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0022
+XX
+ID  JM$TGCGCANK
+XX
+NA  TGCGCANK
+XX
+DE  TGCGCANK
+XX
+BF  TGCGCANK; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   3576      T
+01      0      0   3576      0      G
+02      0   3576      0      0      C
+03      0      0   3576      0      G
+04      0   3576      0      0      C
+05   3576      0      0      0      A
+06    316    865   1531    864      B
+07      0      0   2449   1127      G
+XX
+CC  Total Information Content: 13.2772616543157.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0082
+XX
+ID  JM$CTGYNNCTYTAA
+XX
+NA  CTGYNNCTYTAA
+XX
+DE  CTGYNNCTYTAA
+XX
+BF  CTGYNNCTYTAA; Species: -.
+XX
+P0      A      C      G      T
+00      0    364      0      0      C
+01      0      0      0    364      T
+02      0      0    364      0      G
+03      0    162      0    202      Y
+04     71    181     62     50      C
+05     22    174     53    115      Y
+06      0    364      0      0      C
+07      0      0      0    364      T
+08      0     12      0    352      T
+09      0      0      0    364      T
+10    364      0      0      0      A
+11    364      0      0      0      A
+XX
+CC  Total Information Content: 19.3265187891226.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0110
+XX
+ID  JM$MCAATNNNNNGCG
+XX
+NA  MCAATNNNNNGCG
+XX
+DE  MCAATNNNNNGCG
+XX
+BF  MCAATNNNNNGCG; Species: -.
+XX
+P0      A      C      G      T
+00    144    288      0      0      M
+01      0    432      0      0      C
+02    432      0      0      0      A
+03    432      0      0      0      A
+04      0      0      0    432      T
+05     95    152    172     13      V
+06    130    108    171     23      V
+07     46    112    240     34      G
+08    127    160    111     34      V
+09    122     87    182     41      R
+10      0      0    432      0      G
+11      0    432      0      0      C
+12      0      0    432      0      G
+XX
+CC  Total Information Content: 16.3343490971089.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0145
+XX
+ID  JM$YKACATTT
+XX
+NA  YKACATTT
+XX
+DE  YKACATTT
+XX
+BF  YKACATTT; Species: -.
+XX
+P0      A      C      G      T
+00      0    312      0    508      Y
+01      0      0    404    416      K
+02    820      0      0      0      A
+03      0    820      0      0      C
+04    820      0      0      0      A
+05      0      0      0    820      T
+06      0      0      0    820      T
+07      0      0      0    820      T
+XX
+CC  Total Information Content: 14.0417686728717.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0154
+XX
+ID  JM$RNCTGNYNRNCTGNY
+XX
+NA  RNCTGNYNRNCTGNY
+XX
+DE  RNCTGNYNRNCTGNY
+XX
+BF  RNCTGNYNRNCTGNY; Species: -.
+XX
+P0      A      C      G      T
+00     99      0    137      0      R
+01     23     70     94     49      B
+02      0    236      0      0      C
+03      0      0      0    236      T
+04      0      0    236      0      G
+05     40     80     26     90      Y
+06      0    149      0     87      Y
+07     55     37     52     92      D
+08     71      0    165      0      G
+09     37     77     67     55      B
+10      0    236      0      0      C
+11      0      0      0    236      T
+12      0      0    236      0      G
+13     28     72     82     54      B
+14      0    160      0     76      C
+XX
+CC  Total Information Content: 16.8135960068403.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0123
+XX
+ID  JM$GGCNNMSMYNTTG
+XX
+NA  GGCNNMSMYNTTG
+XX
+DE  GGCNNMSMYNTTG
+XX
+BF  GGCNNMSMYNTTG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    300      0      G
+01      0      0    300      0      G
+02      0    300      0      0      C
+03     85    100     99     16      V
+04     36     56    188     20      G
+05     50    250      0      0      C
+06      0    228     72      0      C
+07    192    108      0      0      M
+08      0     73      0    227      T
+09     29    110     83     78      B
+10      0      0      0    300      T
+11      0      0      0    300      T
+12      0      0    300      0      G
+XX
+CC  Total Information Content: 17.6377292086284.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0026
+XX
+ID  JM$TTAYRTAA
+XX
+NA  TTAYRTAA
+XX
+DE  TTAYRTAA
+XX
+BF  TTAYRTAA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    680      T
+01      0      0      0    680      T
+02    680      0      0      0      A
+03      0    286      0    394      Y
+04    375      0    305      0      R
+05      0      0      0    680      T
+06    680      0      0      0      A
+07    680      0      0      0      A
+XX
+CC  Total Information Content: 14.0259308050782.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0055
+XX
+ID  JM$TGGAAA
+XX
+NA  TGGAAA
+XX
+DE  TGGAAA
+XX
+BF  TGGAAA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   6612      T
+01      0      0   6612      0      G
+02      0      0   6612      0      G
+03   6612      0      0      0      A
+04   6612      0      0      0      A
+05   6612      0      0      0      A
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0069
+XX
+ID  JM$SGCGSSAAA
+XX
+NA  SGCGSSAAA
+XX
+DE  SGCGSSAAA
+XX
+BF  SGCGSSAAA; Species: -.
+XX
+P0      A      C      G      T
+00      0    219    633      0      G
+01      0      0    852      0      G
+02      0    852      0      0      C
+03      0      0    852      0      G
+04      0    296    556      0      S
+05      0    229    623      0      G
+06    852      0      0      0      A
+07    852      0      0      0      A
+08    852      0      0      0      A
+XX
+CC  Total Information Content: 15.4063013735119.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0114
+XX
+ID  JM$YTCCCRNNAGGY
+XX
+NA  YTCCCRNNAGGY
+XX
+DE  YTCCCRNNAGGY
+XX
+BF  YTCCCRNNAGGY; Species: -.
+XX
+P0      A      C      G      T
+00      0    184      0    120      Y
+01      0      0      0    304      T
+02      0    304      0      0      C
+03      0    304      0      0      C
+04      0    304      0      0      C
+05    208      0     96      0      A
+06     17     26    248     13      G
+07     85    153     56     10      M
+08    304      0      0      0      A
+09      0      0    304      0      G
+10      0      0    304      0      G
+11      0    272      0     32      C
+XX
+CC  Total Information Content: 19.0526468210145.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0109
+XX
+ID  JM$YGTCCTTGR
+XX
+NA  YGTCCTTGR
+XX
+DE  YGTCCTTGR
+XX
+BF  YGTCCTTGR; Species: -.
+XX
+P0      A      C      G      T
+00      0     63      0    265      T
+01      0      0    328      0      G
+02      0      0      0    328      T
+03      0    328      0      0      C
+04      0    328      0      0      C
+05      0      0      0    328      T
+06      0      0      0    328      T
+07      0      0    328      0      G
+08    137      0    191      0      R
+XX
+CC  Total Information Content: 16.3138527051093.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0028
+XX
+ID  JM$CTAWWWATA
+XX
+NA  CTAWWWATA
+XX
+DE  CTAWWWATA
+XX
+BF  CTAWWWATA; Species: -.
+XX
+P0      A      C      G      T
+00      0   1356      0      0      C
+01      0      0      0   1356      T
+02   1356      0      0      0      A
+03    605      0      0    751      W
+04    896      0      0    460      W
+05    881      0      0    475      W
+06   1356      0      0      0      A
+07      0      0      0   1356      T
+08   1356      0      0      0      A
+XX
+CC  Total Information Content: 15.1499645212671.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0090
+XX
+ID  JM$YAATNRNNNYNATT
+XX
+NA  YAATNRNNNYNATT
+XX
+DE  YAATNRNNNYNATT
+XX
+BF  YAATNRNNNYNATT; Species: -.
+XX
+P0      A      C      G      T
+00      0    128      0    196      Y
+01    324      0      0      0      A
+02    324      0      0      0      A
+03      0      0      0    324      T
+04     64     29    101    130      K
+05    204      0    120      0      R
+06    138     50     56     80      W
+07    107     50     70     97      D
+08     93     35     77    119      D
+09      0    115      0    209      Y
+10     98     98     42     86      H
+11    324      0      0      0      A
+12      0      0      0    324      T
+13      0      0      0    324      T
+XX
+CC  Total Information Content: 15.6763883525985.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0024
+XX
+ID  JM$GGGAGGRR
+XX
+NA  GGGAGGRR
+XX
+DE  GGGAGGRR
+XX
+BF  GGGAGGRR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0  11176      0      G
+01      0      0  11176      0      G
+02      0      0  11176      0      G
+03  11176      0      0      0      A
+04      0      0  11176      0      G
+05      0      0  11176      0      G
+06   3724      0   7452      0      G
+07   2525      0   8651      0      G
+XX
+CC  Total Information Content: 14.3109738838275.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0132
+XX
+ID  JM$TCCATTKW
+XX
+NA  TCCATTKW
+XX
+DE  TCCATTKW
+XX
+BF  TCCATTKW; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    852      T
+01      0    852      0      0      C
+02      0    852      0      0      C
+03    852      0      0      0      A
+04      0      0      0    852      T
+05      0      0      0    852      T
+06      0      0    348    504      K
+07    172      0      0    680      T
+XX
+CC  Total Information Content: 14.298652112109.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0006
+XX
+ID  JM$GGGCGGR
+XX
+NA  GGGCGGR
+XX
+DE  GGGCGGR
+XX
+BF  GGGCGGR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0  18548      0      G
+01      0      0  18548      0      G
+02      0      0  18548      0      G
+03      0  18548      0      0      C
+04      0      0  18548      0      G
+05      0      0  18548      0      G
+06   4149      0  14399      0      G
+XX
+CC  Total Information Content: 13.2331518804852.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0092
+XX
+ID  JM$TGCTGAY
+XX
+NA  TGCTGAY
+XX
+DE  TGCTGAY
+XX
+BF  TGCTGAY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1684      T
+01      0      0   1684      0      G
+02      0   1684      0      0      C
+03      0      0      0   1684      T
+04      0      0   1684      0      G
+05   1684      0      0      0      A
+06      0    998      0    686      Y
+XX
+CC  Total Information Content: 13.0249047188108.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0065
+XX
+ID  JM$ARGGGTTAA
+XX
+NA  ARGGGTTAA
+XX
+DE  ARGGGTTAA
+XX
+BF  ARGGGTTAA; Species: -.
+XX
+P0      A      C      G      T
+00    348      0      0      0      A
+01    192      0    156      0      R
+02      0      0    348      0      G
+03      0      0    348      0      G
+04      0      0    348      0      G
+05      0      0      0    348      T
+06      0      0      0    348      T
+07    348      0      0      0      A
+08    348      0      0      0      A
+XX
+CC  Total Information Content: 17.0077333612805.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0168
+XX
+ID  JM$YTAAYNGCT
+XX
+NA  YTAAYNGCT
+XX
+DE  YTAAYNGCT
+XX
+BF  YTAAYNGCT; Species: -.
+XX
+P0      A      C      G      T
+00      0    185      0    203      Y
+01      0      0      0    388      T
+02    388      0      0      0      A
+03    388      0      0      0      A
+04      0    164      0    224      Y
+05    124     13    134    117      D
+06      0      0    388      0      G
+07      0    388      0      0      C
+08      0      0      0    388      T
+XX
+CC  Total Information Content: 14.2775023889509.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0018
+XX
+ID  JM$TCANNTGAY
+XX
+NA  TCANNTGAY
+XX
+DE  TCANNTGAY
+XX
+BF  TCANNTGAY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2740      T
+01      0   2740      0      0      C
+02   2740      0      0      0      A
+03    173   1452    687    428      C
+04    520    662   1458    100      G
+05      0      0      0   2740      T
+06      0      0   2740      0      G
+07   2740      0      0      0      A
+08      0   1985      0    755      C
+XX
+CC  Total Information Content: 13.8860076750062.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0033
+XX
+ID  JM$YTATTTTNR
+XX
+NA  YTATTTTNR
+XX
+DE  YTATTTTNR
+XX
+BF  YTATTTTNR; Species: -.
+XX
+P0      A      C      G      T
+00      0    874      0   1234      Y
+01      0      0      0   2108      T
+02   2108      0      0      0      A
+03      0      0      0   2108      T
+04      0      0      0   2108      T
+05      0      0      0   2108      T
+06      0      0      0   2108      T
+07    490    162    469    987      T
+08   1335      0    773      0      R
+XX
+CC  Total Information Content: 14.3042683633816.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0078
+XX
+ID  JM$GCTNWTTGK
+XX
+NA  GCTNWTTGK
+XX
+DE  GCTNWTTGK
+XX
+BF  GCTNWTTGK; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   1104      0      G
+01      0   1104      0      0      C
+02      0      0      0   1104      T
+03    111    330    589     74      S
+04    680      0      0    424      W
+05      0      0      0   1104      T
+06      0      0      0   1104      T
+07      0      0   1104      0      G
+08      0      0    710    394      K
+XX
+CC  Total Information Content: 14.500168388317.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0127
+XX
+ID  JM$WWTAAGGC
+XX
+NA  WWTAAGGC
+XX
+DE  WWTAAGGC
+XX
+BF  WWTAAGGC; Species: -.
+XX
+P0      A      C      G      T
+00    156      0      0    296      W
+01    195      0      0    257      W
+02      0      0      0    452      T
+03    452      0      0      0      A
+04    452      0      0      0      A
+05      0      0    452      0      G
+06      0      0    452      0      G
+07      0    452      0      0      C
+XX
+CC  Total Information Content: 14.0839692050207.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0002
+XX
+ID  JM$CACGTG
+XX
+NA  CACGTG
+XX
+DE  CACGTG
+XX
+BF  CACGTG; Species: -.
+XX
+P0      A      C      G      T
+00      0   5224      0      0      C
+01   5224      0      0      0      A
+02      0   5224      0      0      C
+03      0      0   5224      0      G
+04      0      0      0   5224      T
+05      0      0   5224      0      G
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0004
+XX
+ID  JM$ACTAYRNNNCCCR
+XX
+NA  ACTAYRNNNCCCR
+XX
+DE  ACTAYRNNNCCCR
+XX
+BF  ACTAYRNNNCCCR; Species: -.
+XX
+P0      A      C      G      T
+00   2440      0      0      0      A
+01      0   2440      0      0      C
+02      0      0      0   2440      T
+03   2440      0      0      0      A
+04      0   2416      0     24      C
+05   2188      0    252      0      A
+06   1357    230    169    684      W
+07    316    763    309   1052      Y
+08     94    141     70   2135      T
+09      0   2440      0      0      C
+10      0   2440      0      0      C
+11      0   2440      0      0      C
+12   1974      0    466      0      A
+XX
+CC  Total Information Content: 20.622995901164.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0148
+XX
+ID  JM$GATGKMRGCG
+XX
+NA  GATGKMRGCG
+XX
+DE  GATGKMRGCG
+XX
+BF  GATGKMRGCG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    280      0      G
+01    280      0      0      0      A
+02      0      0      0    280      T
+03      0      0    280      0      G
+04      0      0    259     21      G
+05     51    229      0      0      C
+06     55      0    225      0      G
+07      0      0    280      0      G
+08      0    280      0      0      C
+09      0      0    280      0      G
+XX
+CC  Total Information Content: 18.2162185369208.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0035
+XX
+ID  JM$GCANCTGNY
+XX
+NA  GCANCTGNY
+XX
+DE  GCANCTGNY
+XX
+BF  GCANCTGNY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   3756      0      G
+01      0   3756      0      0      C
+02   3756      0      0      0      A
+03    233   1350   1723    450      S
+04      0   3756      0      0      C
+05      0      0      0   3756      T
+06      0      0   3756      0      G
+07    360   1617    811    968      B
+08      0   1976      0   1780      Y
+XX
+CC  Total Information Content: 13.5107278565549.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0043
+XX
+ID  JM$GTTGNYNNRGNAAC
+XX
+NA  GTTGNYNNRGNAAC
+XX
+DE  GTTGNYNNRGNAAC
+XX
+BF  GTTGNYNNRGNAAC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    420      0      G
+01      0      0      0    420      T
+02      0      0      0    420      T
+03      0      0    420      0      G
+04      4    313     10     93      C
+05      0    333      0     87      C
+06    225     76     67     52      A
+07     78     47     98    197      T
+08    122      0    298      0      G
+09      0      0    420      0      G
+10    125    124     53    118      H
+11    420      0      0      0      A
+12    420      0      0      0      A
+13      0    420      0      0      C
+XX
+CC  Total Information Content: 19.9420272952388.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0051
+XX
+ID  JM$TATAAA
+XX
+NA  TATAAA
+XX
+DE  TATAAA
+XX
+BF  TATAAA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   4688      T
+01   4688      0      0      0      A
+02      0      0      0   4688      T
+03   4688      0      0      0      A
+04   4688      0      0      0      A
+05   4688      0      0      0      A
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0097
+XX
+ID  JM$YATTNATC
+XX
+NA  YATTNATC
+XX
+DE  YATTNATC
+XX
+BF  YATTNATC; Species: -.
+XX
+P0      A      C      G      T
+00      0    459      0    533      Y
+01    992      0      0      0      A
+02      0      0      0    992      T
+03      0      0      0    992      T
+04    178    259    195    360      B
+05    992      0      0      0      A
+06      0      0      0    992      T
+07      0    992      0      0      C
+XX
+CC  Total Information Content: 13.0614448983193.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0081
+XX
+ID  JM$CGGAARNGGCNG
+XX
+NA  CGGAARNGGCNG
+XX
+DE  CGGAARNGGCNG
+XX
+BF  CGGAARNGGCNG; Species: -.
+XX
+P0      A      C      G      T
+00      0    296      0      0      C
+01      0      0    296      0      G
+02      0      0    296      0      G
+03    296      0      0      0      A
+04    296      0      0      0      A
+05     92      0    204      0      G
+06    113     40     91     52      R
+07      0      0    296      0      G
+08      0      0    296      0      G
+09      0    296      0      0      C
+10     49     36    181     30      G
+11      0      0    296      0      G
+XX
+CC  Total Information Content: 19.6535618616035.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0101
+XX
+ID  JM$CTGCAGY
+XX
+NA  CTGCAGY
+XX
+DE  CTGCAGY
+XX
+BF  CTGCAGY; Species: -.
+XX
+P0      A      C      G      T
+00      0   4132      0      0      C
+01      0      0      0   4132      T
+02      0      0   4132      0      G
+03      0   4132      0      0      C
+04   4132      0      0      0      A
+05      0      0   4132      0      G
+06      0   2747      0   1385      Y
+XX
+CC  Total Information Content: 13.0798598934366.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0071
+XX
+ID  JM$SYATTGTG
+XX
+NA  SYATTGTG
+XX
+DE  SYATTGTG
+XX
+BF  SYATTGTG; Species: -.
+XX
+P0      A      C      G      T
+00      0    603    405      0      S
+01      0    678      0    330      C
+02   1008      0      0      0      A
+03      0      0      0   1008      T
+04      0      0      0   1008      T
+05      0      0   1008      0      G
+06      0      0      0   1008      T
+07      0      0   1008      0      G
+XX
+CC  Total Information Content: 14.1157863137353.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0169
+XX
+ID  JM$TTTNNANAGCYR
+XX
+NA  TTTNNANAGCYR
+XX
+DE  TTTNNANAGCYR
+XX
+BF  TTTNNANAGCYR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    456      T
+01      0      0      0    456      T
+02      0      0      0    456      T
+03     41     32     37    346      T
+04    126    224     51     55      M
+05    456      0      0      0      A
+06    106     56    260     34      G
+07    456      0      0      0      A
+08      0      0    456      0      G
+09      0    456      0      0      C
+10      0    328      0    128      C
+11    322      0    134      0      A
+XX
+CC  Total Information Content: 17.751982119229.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0142
+XX
+ID  JM$ACAWYAAAG
+XX
+NA  ACAWYAAAG
+XX
+DE  ACAWYAAAG
+XX
+BF  ACAWYAAAG; Species: -.
+XX
+P0      A      C      G      T
+00    280      0      0      0      A
+01      0    280      0      0      C
+02    280      0      0      0      A
+03    188      0      0     92      A
+04      0    184      0     96      Y
+05    280      0      0      0      A
+06    280      0      0      0      A
+07    280      0      0      0      A
+08      0      0    280      0      G
+XX
+CC  Total Information Content: 16.1590132663114.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0031
+XX
+ID  JM$GGGYGTGNY
+XX
+NA  GGGYGTGNY
+XX
+DE  GGGYGTGNY
+XX
+BF  GGGYGTGNY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   2812      0      G
+01      0      0   2812      0      G
+02      0      0   2812      0      G
+03      0   1564      0   1248      Y
+04      0      0   2812      0      G
+05      0      0      0   2812      T
+06      0      0   2812      0      G
+07    320    326   1648    518      G
+08      0   2021      0    791      C
+XX
+CC  Total Information Content: 14.5333591848674.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0106
+XX
+ID  JM$CCGNMNNTNACG
+XX
+NA  CCGNMNNTNACG
+XX
+DE  CCGNMNNTNACG
+XX
+BF  CCGNMNNTNACG; Species: -.
+XX
+P0      A      C      G      T
+00      0    372      0      0      C
+01      0    372      0      0      C
+02      0      0    372      0      G
+03     26     44    294      8      G
+04    280     92      0      0      A
+05    247     72     32     21      A
+06     51     34    275     12      G
+07      0      0      0    372      T
+08     28     43    286     15      G
+09    372      0      0      0      A
+10      0    372      0      0      C
+11      0      0    372      0      G
+XX
+CC  Total Information Content: 18.4740178263056.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0121
+XX
+ID  JM$CCAWWNAAGG
+XX
+NA  CCAWWNAAGG
+XX
+DE  CCAWWNAAGG
+XX
+BF  CCAWWNAAGG; Species: -.
+XX
+P0      A      C      G      T
+00      0    268      0      0      C
+01      0    268      0      0      C
+02    268      0      0      0      A
+03    138      0      0    130      W
+04    208      0      0     60      A
+05    108     45     28     87      W
+06    268      0      0      0      A
+07    268      0      0      0      A
+08      0      0    268      0      G
+09      0      0    268      0      G
+XX
+CC  Total Information Content: 16.4054352247606.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0166
+XX
+ID  JM$YNTTTNNNANGCARM
+XX
+NA  YNTTTNNNANGCARM
+XX
+DE  YNTTTNNNANGCARM
+XX
+BF  YNTTTNNNANGCARM; Species: -.
+XX
+P0      A      C      G      T
+00      0    100      0     92      Y
+01     28     70     37     57      B
+02      0      0      0    192      T
+03      0      0      0    192      T
+04      0      0      0    192      T
+05     50     47     31     64      H
+06     97     47     21     27      A
+07     90     26     40     36      A
+08    192      0      0      0      A
+09     50     12     52     78      D
+10      0      0    192      0      G
+11      0    192      0      0      C
+12    192      0      0      0      A
+13     74      0    118      0      R
+14    163     29      0      0      A
+XX
+CC  Total Information Content: 18.1947520491882.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0095
+XX
+ID  JM$GCCNNNWTAAR
+XX
+NA  GCCNNNWTAAR
+XX
+DE  GCCNNNWTAAR
+XX
+BF  GCCNNNWTAAR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    460      0      G
+01      0    460      0      0      C
+02      0    460      0      0      C
+03     77    204     99     80      C
+04     79    240     31    110      C
+05     45    101     28    286      T
+06    144      0      0    316      T
+07      0      0      0    460      T
+08    460      0      0      0      A
+09    460      0      0      0      A
+10    219      0    241      0      R
+XX
+CC  Total Information Content: 15.0748333637152.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0108
+XX
+ID  JM$AACWWCAANK
+XX
+NA  AACWWCAANK
+XX
+DE  AACWWCAANK
+XX
+BF  AACWWCAANK; Species: -.
+XX
+P0      A      C      G      T
+00    604      0      0      0      A
+01    604      0      0      0      A
+02      0    604      0      0      C
+03    128      0      0    476      T
+04    510      0      0     94      A
+05      0    604      0      0      C
+06    604      0      0      0      A
+07    604      0      0      0      A
+08    157    227    102    118      H
+09      0      0    164    440      T
+XX
+CC  Total Information Content: 15.8580414595794.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0122
+XX
+ID  JM$RNTCANNRNNYNATTW
+XX
+NA  RNTCANNRNNYNATTW
+XX
+DE  RNTCANNRNNYNATTW
+XX
+BF  RNTCANNRNNYNATTW; Species: -.
+XX
+P0      A      C      G      T
+00     71      0     81      0      R
+01     39     49     28     36      N
+02      0      0      0    152      T
+03      0    152      0      0      C
+04    152      0      0      0      A
+05     27     44     22     59      Y
+06     29     28     22     73      T
+07     79      0     73      0      R
+08     45     29     35     43      N
+09     44     44     10     54      H
+10      0     53      0     99      Y
+11     51     45      8     48      H
+12    152      0      0      0      A
+13      0      0      0    152      T
+14      0      0      0    152      T
+15     92      0      0     60      W
+XX
+CC  Total Information Content: 16.8199206715049.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0104
+XX
+ID  JM$CCAATNNSNNNGCG
+XX
+NA  CCAATNNSNNNGCG
+XX
+DE  CCAATNNSNNNGCG
+XX
+BF  CCAATNNSNNNGCG; Species: -.
+XX
+P0      A      C      G      T
+00      0    236      0      0      C
+01      0    236      0      0      C
+02    236      0      0      0      A
+03    236      0      0      0      A
+04      0      0      0    236      T
+05     21    114     94      7      S
+06     75     30    118     13      R
+07      0     79    157      0      S
+08     63     93     63     17      V
+09     47     20    141     28      G
+10     53     79     81     23      V
+11      0      0    236      0      G
+12      0    236      0      0      C
+13      0      0    236      0      G
+XX
+CC  Total Information Content: 18.6852937354041.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0144
+XX
+ID  JM$AAANWWTGC
+XX
+NA  AAANWWTGC
+XX
+DE  AAANWWTGC
+XX
+BF  AAANWWTGC; Species: -.
+XX
+P0      A      C      G      T
+00    728      0      0      0      A
+01    728      0      0      0      A
+02    728      0      0      0      A
+03     97    237    260    134      B
+04    251      0      0    477      W
+05    255      0      0    473      W
+06      0      0      0    728      T
+07      0      0    728      0      G
+08      0    728      0      0      C
+XX
+CC  Total Information Content: 14.2418901235448.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0062
+XX
+ID  JM$SMTTTTGT
+XX
+NA  SMTTTTGT
+XX
+DE  SMTTTTGT
+XX
+BF  SMTTTTGT; Species: -.
+XX
+P0      A      C      G      T
+00      0    886    574      0      S
+01    552    908      0      0      M
+02      0      0      0   1460      T
+03      0      0      0   1460      T
+04      0      0      0   1460      T
+05      0      0      0   1460      T
+06      0      0   1460      0      G
+07      0      0      0   1460      T
+XX
+CC  Total Information Content: 14.0765210087483.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0099
+XX
+ID  JM$ATCMNTCCGY
+XX
+NA  ATCMNTCCGY
+XX
+DE  ATCMNTCCGY
+XX
+BF  ATCMNTCCGY; Species: -.
+XX
+P0      A      C      G      T
+00    344      0      0      0      A
+01      0      0      0    344      T
+02      0    344      0      0      C
+03     74    270      0      0      C
+04     31    208     31     74      C
+05      0      0      0    344      T
+06      0    344      0      0      C
+07      0    344      0      0      C
+08      0      0    344      0      G
+09      0    340      0      4      C
+XX
+CC  Total Information Content: 17.6159262597918.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0012
+XX
+ID  JM$CAGGTG
+XX
+NA  CAGGTG
+XX
+DE  CAGGTG
+XX
+BF  CAGGTG; Species: -.
+XX
+P0      A      C      G      T
+00      0  12312      0      0      C
+01  12312      0      0      0      A
+02      0      0  12312      0      G
+03      0      0  12312      0      G
+04      0      0      0  12312      T
+05      0      0  12312      0      G
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0086
+XX
+ID  JM$GGGNNTTTCC
+XX
+NA  GGGNNTTTCC
+XX
+DE  GGGNNTTTCC
+XX
+BF  GGGNNTTTCC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    396      0      G
+01      0      0    396      0      G
+02      0      0    396      0      G
+03    136     82    125     53      V
+04    129    100     76     91      N
+05      0      0      0    396      T
+06      0      0      0    396      T
+07      0      0      0    396      T
+08      0    396      0      0      C
+09      0    396      0      0      C
+XX
+CC  Total Information Content: 16.1135159736544.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0161
+XX
+ID  JM$TTANWNANTGGM
+XX
+NA  TTANWNANTGGM
+XX
+DE  TTANWNANTGGM
+XX
+BF  TTANWNANTGGM; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    192      T
+01      0      0      0    192      T
+02    192      0      0      0      A
+03     80     40     32     40      H
+04     68      0      0    124      W
+05     63     28     18     83      W
+06    192      0      0      0      A
+07     92     41     25     34      A
+08      0      0      0    192      T
+09      0      0    192      0      G
+10      0      0    192      0      G
+11     95     97      0      0      M
+XX
+CC  Total Information Content: 16.5770786874249.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0075
+XX
+ID  JM$TNCATNTCCYR
+XX
+NA  TNCATNTCCYR
+XX
+DE  TNCATNTCCYR
+XX
+BF  TNCATNTCCYR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    692      T
+01    322    133     96    141      A
+02      0    692      0      0      C
+03    692      0      0      0      A
+04      0      0      0    692      T
+05     13    132     18    529      T
+06      0      0      0    692      T
+07      0    692      0      0      C
+08      0    692      0      0      C
+09      0    553      0    139      C
+10    451      0    241      0      R
+XX
+CC  Total Information Content: 17.5131498899234.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0088
+XX
+ID  JM$GGCNKCCATNK
+XX
+NA  GGCNKCCATNK
+XX
+DE  GGCNKCCATNK
+XX
+BF  GGCNKCCATNK; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    492      0      G
+01      0      0    492      0      G
+02      0    492      0      0      C
+03    133    174    135     50      V
+04      0      0    416     76      G
+05      0    492      0      0      C
+06      0    492      0      0      C
+07    492      0      0      0      A
+08      0      0      0    492      T
+09     23    178    135    156      B
+10      0      0    117    375      T
+XX
+CC  Total Information Content: 16.9254523550943.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0158
+XX
+ID  JM$CCCNNNNNNAAGWT
+XX
+NA  CCCNNNNNNAAGWT
+XX
+DE  CCCNNNNNNAAGWT
+XX
+BF  CCCNNNNNNAAGWT; Species: -.
+XX
+P0      A      C      G      T
+00      0    480      0      0      C
+01      0    480      0      0      C
+02      0    480      0      0      C
+03    149     79    104    148      N
+04    104    169    123     84      V
+05    172    125     72    111      H
+06    108    121     99    152      N
+07     64    220     96    100      C
+08    157    202     65     56      M
+09    480      0      0      0      A
+10    480      0      0      0      A
+11      0      0    480      0      G
+12    320      0      0    160      W
+13      0      0      0    480      T
+XX
+CC  Total Information Content: 15.6163105114081.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0047
+XX
+ID  JM$TGCCAAR
+XX
+NA  TGCCAAR
+XX
+DE  TGCCAAR
+XX
+BF  TGCCAAR; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2132      T
+01      0      0   2132      0      G
+02      0   2132      0      0      C
+03      0   2132      0      0      C
+04   2132      0      0      0      A
+05   2132      0      0      0      A
+06   1062      0   1070      0      R
+XX
+CC  Total Information Content: 13.0000101566652.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0009
+XX
+ID  JM$TGAYRTCA
+XX
+NA  TGAYRTCA
+XX
+DE  TGAYRTCA
+XX
+BF  TGAYRTCA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2440      T
+01      0      0   2440      0      G
+02   2440      0      0      0      A
+03      0   1794      0    646      C
+04    544      0   1896      0      G
+05      0      0      0   2440      T
+06      0   2440      0      0      C
+07   2440      0      0      0      A
+XX
+CC  Total Information Content: 14.4006449074309.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0058
+XX
+ID  JM$YCATTAA
+XX
+NA  YCATTAA
+XX
+DE  YCATTAA
+XX
+BF  YCATTAA; Species: -.
+XX
+P0      A      C      G      T
+00      0    732      0    856      Y
+01      0   1588      0      0      C
+02   1588      0      0      0      A
+03      0      0      0   1588      T
+04      0      0      0   1588      T
+05   1588      0      0      0      A
+06   1588      0      0      0      A
+XX
+CC  Total Information Content: 13.0044028015871.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0048
+XX
+ID  JM$GCGNNANTTCC
+XX
+NA  GCGNNANTTCC
+XX
+DE  GCGNNANTTCC
+XX
+BF  GCGNNANTTCC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    620      0      G
+01      0    620      0      0      C
+02      0      0    620      0      G
+03     52    155    241    172      B
+04     43    340    213     24      S
+05    620      0      0      0      A
+06     14    406     86    114      C
+07      0      0      0    620      T
+08      0      0      0    620      T
+09      0    620      0      0      C
+10      0    620      0      0      C
+XX
+CC  Total Information Content: 17.335559283646.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0164
+XX
+ID  JM$GCGSCMNTTT
+XX
+NA  GCGSCMNTTT
+XX
+DE  GCGSCMNTTT
+XX
+BF  GCGSCMNTTT; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    312      0      G
+01      0    312      0      0      C
+02      0      0    312      0      G
+03      0    212    100      0      C
+04      0    312      0      0      C
+05    234     78      0      0      A
+06     83     32     22    175      T
+07      0      0      0    312      T
+08      0      0      0    312      T
+09      0      0      0    312      T
+XX
+CC  Total Information Content: 16.7009381696348.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0067
+XX
+ID  JM$TGANNYRGCA
+XX
+NA  TGANNYRGCA
+XX
+DE  TGANNYRGCA
+XX
+BF  TGANNYRGCA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    864      T
+01      0      0    864      0      G
+02    864      0      0      0      A
+03    105    368    228    163      S
+04    162    125    206    371      K
+05      0    558      0    306      Y
+06    571      0    293      0      R
+07      0      0    864      0      G
+08      0    864      0      0      C
+09    864      0      0      0      A
+XX
+CC  Total Information Content: 14.4099898423089.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0038
+XX
+ID  JM$TGACCTTG
+XX
+NA  TGACCTTG
+XX
+DE  TGACCTTG
+XX
+BF  TGACCTTG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    764      T
+01      0      0    764      0      G
+02    764      0      0      0      A
+03      0    764      0      0      C
+04      0    764      0      0      C
+05      0      0      0    764      T
+06      0      0      0    764      T
+07      0      0    764      0      G
+XX
+CC  Total Information Content: 16.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0072
+XX
+ID  JM$TTCYRGAA
+XX
+NA  TTCYRGAA
+XX
+DE  TTCYRGAA
+XX
+BF  TTCYRGAA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   1044      T
+01      0      0      0   1044      T
+02      0   1044      0      0      C
+03      0    458      0    586      Y
+04    541      0    503      0      R
+05      0      0   1044      0      G
+06   1044      0      0      0      A
+07   1044      0      0      0      A
+XX
+CC  Total Information Content: 14.01182656851.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0174
+XX
+ID  JM$WTGAAAT
+XX
+NA  WTGAAAT
+XX
+DE  WTGAAAT
+XX
+BF  WTGAAAT; Species: -.
+XX
+P0      A      C      G      T
+00    780      0      0    920      W
+01      0      0      0   1700      T
+02      0      0   1700      0      G
+03   1700      0      0      0      A
+04   1700      0      0      0      A
+05   1700      0      0      0      A
+06      0      0      0   1700      T
+XX
+CC  Total Information Content: 13.0048977287358.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0023
+XX
+ID  JM$TAATTA
+XX
+NA  TAATTA
+XX
+DE  TAATTA
+XX
+BF  TAATTA; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0   2256      T
+01   2256      0      0      0      A
+02   2256      0      0      0      A
+03      0      0      0   2256      T
+04      0      0      0   2256      T
+05   2256      0      0      0      A
+XX
+CC  Total Information Content: 12.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0044
+XX
+ID  JM$YATGNWAAT
+XX
+NA  YATGNWAAT
+XX
+DE  YATGNWAAT
+XX
+BF  YATGNWAAT; Species: -.
+XX
+P0      A      C      G      T
+00      0    384      0    828      T
+01   1212      0      0      0      A
+02      0      0      0   1212      T
+03      0      0   1212      0      G
+04     57    807    134    214      C
+05    889      0      0    323      A
+06   1212      0      0      0      A
+07   1212      0      0      0      A
+08      0      0      0   1212      T
+XX
+CC  Total Information Content: 14.8716187921438.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0010
+XX
+ID  JM$GCCATNTTG
+XX
+NA  GCCATNTTG
+XX
+DE  GCCATNTTG
+XX
+BF  GCCATNTTG; Species: -.
+XX
+P0      A      C      G      T
+00      0      0   2088      0      G
+01      0   2088      0      0      C
+02      0   2088      0      0      C
+03   2088      0      0      0      A
+04      0      0      0   2088      T
+05    155    861    309    763      Y
+06      0      0      0   2088      T
+07      0      0      0   2088      T
+08      0      0   2088      0      G
+XX
+CC  Total Information Content: 16.25583700188.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0149
+XX
+ID  JM$YGACNNYACAR
+XX
+NA  YGACNNYACAR
+XX
+DE  YGACNNYACAR
+XX
+BF  YGACNNYACAR; Species: -.
+XX
+P0      A      C      G      T
+00      0     22      0    314      T
+01      0      0    336      0      G
+02    336      0      0      0      A
+03      0    336      0      0      C
+04    116     75    108     37      V
+05     40     33     16    247      T
+06      0    301      0     35      C
+07    336      0      0      0      A
+08      0    336      0      0      C
+09    336      0      0      0      A
+10    163      0    173      0      R
+XX
+CC  Total Information Content: 17.0504660691425.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0057
+XX
+ID  JM$ACCTGTTG
+XX
+NA  ACCTGTTG
+XX
+DE  ACCTGTTG
+XX
+BF  ACCTGTTG; Species: -.
+XX
+P0      A      C      G      T
+00    480      0      0      0      A
+01      0    480      0      0      C
+02      0    480      0      0      C
+03      0      0      0    480      T
+04      0      0    480      0      G
+05      0      0      0    480      T
+06      0      0      0    480      T
+07      0      0    480      0      G
+XX
+CC  Total Information Content: 16.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0118
+XX
+ID  JM$GGCNRNWCTTYS
+XX
+NA  GGCNRNWCTTYS
+XX
+DE  GGCNRNWCTTYS
+XX
+BF  GGCNRNWCTTYS; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    356      0      G
+01      0      0    356      0      G
+02      0    356      0      0      C
+03     51     44    205     56      G
+04     38      0    318      0      G
+05     66     58    196     36      G
+06    285      0      0     71      A
+07      0    356      0      0      C
+08      0      0      0    356      T
+09      0      0      0    356      T
+10      0    266      0     90      C
+11      0    294     62      0      C
+XX
+CC  Total Information Content: 17.9681171046028.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0170
+XX
+ID  JM$YNGTTNNNATT
+XX
+NA  YNGTTNNNATT
+XX
+DE  YNGTTNNNATT
+XX
+BF  YNGTTNNNATT; Species: -.
+XX
+P0      A      C      G      T
+00      0    458      0    462      Y
+01    260    103    151    406      W
+02      0      0    920      0      G
+03      0      0      0    920      T
+04      0      0      0    920      T
+05    119    144    212    445      T
+06    152    188    213    367      B
+07    315    229    192    184      N
+08    920      0      0      0      A
+09      0      0      0    920      T
+10      0      0      0    920      T
+XX
+CC  Total Information Content: 13.5072984828633.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0034
+XX
+ID  JM$CYTAGCAAY
+XX
+NA  CYTAGCAAY
+XX
+DE  CYTAGCAAY
+XX
+BF  CYTAGCAAY; Species: -.
+XX
+P0      A      C      G      T
+00      0    608      0      0      C
+01      0    357      0    251      Y
+02      0      0      0    608      T
+03    608      0      0      0      A
+04      0      0    608      0      G
+05      0    608      0      0      C
+06    608      0      0      0      A
+07    608      0      0      0      A
+08      0    588      0     20      C
+XX
+CC  Total Information Content: 16.8133306424575.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0120
+XX
+ID  JM$KRCTCNNNNMANAGC
+XX
+NA  KRCTCNNNNMANAGC
+XX
+DE  KRCTCNNNNMANAGC
+XX
+BF  KRCTCNNNNMANAGC; Species: -.
+XX
+P0      A      C      G      T
+00      0      0    520     16      G
+01      8      0    528      0      G
+02      0    536      0      0      C
+03      0      0      0    536      T
+04      0    536      0      0      C
+05      9     15      0    512      T
+06     25      4    207    300      K
+07    264     12      7    253      W
+08    259      0     27    250      W
+09    328    208      0      0      M
+10    536      0      0      0      A
+11     10     23    502      1      G
+12    536      0      0      0      A
+13      0      0    536      0      G
+14      0    536      0      0      C
+XX
+CC  Total Information Content: 24.3028392363272.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0126
+XX
+ID  JM$WYAAANNRNNNGCG
+XX
+NA  WYAAANNRNNNGCG
+XX
+DE  WYAAANNRNNNGCG
+XX
+BF  WYAAANNRNNNGCG; Species: -.
+XX
+P0      A      C      G      T
+00     80      0      0    160      W
+01      0     86      0    154      Y
+02    240      0      0      0      A
+03    240      0      0      0      A
+04    240      0      0      0      A
+05     76     42    106     16      R
+06     58     32    102     48      R
+07     55      0    185      0      G
+08     37     60    120     23      S
+09     28    149     47     16      C
+10     53     88     81     18      V
+11      0      0    240      0      G
+12      0    240      0      0      C
+13      0      0    240      0      G
+XX
+CC  Total Information Content: 16.6746705013525.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0173
+XX
+ID  JM$YWATTWNNRGCT
+XX
+NA  YWATTWNNRGCT
+XX
+DE  YWATTWNNRGCT
+XX
+BF  YWATTWNNRGCT; Species: -.
+XX
+P0      A      C      G      T
+00      0     88      0    132      Y
+01     80      0      0    140      W
+02    220      0      0      0      A
+03      0      0      0    220      T
+04      0      0      0    220      T
+05     94      0      0    126      W
+06     53     43     55     69      N
+07     60     48     21     91      H
+08    134      0     86      0      R
+09      0      0    220      0      G
+10      0    220      0      0      C
+11      0      0      0    220      T
+XX
+CC  Total Information Content: 16.3129279607441.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0172
+XX
+ID  JM$TTGCWCAAY
+XX
+NA  TTGCWCAAY
+XX
+DE  TTGCWCAAY
+XX
+BF  TTGCWCAAY; Species: -.
+XX
+P0      A      C      G      T
+00      0      0      0    148      T
+01      0      0      0    148      T
+02      0      0    148      0      G
+03      0    148      0      0      C
+04     79      0      0     69      W
+05      0    148      0      0      C
+06    148      0      0      0      A
+07    148      0      0      0      A
+08      0     73      0     75      Y
+XX
+CC  Total Information Content: 16.003427466101.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
+AC  PF0084
+XX
+ID  JM$RGTTAMWNATT
+XX
+NA  RGTTAMWNATT
+XX
+DE  RGTTAMWNATT
+XX
+BF  RGTTAMWNATT; Species: -.
+XX
+P0      A      C      G      T
+00    117      0     95      0      R
+01      0      0    212      0      G
+02      0      0      0    212      T
+03      0      0      0    212      T
+04    212      0      0      0      A
+05    121     91      0      0      M
+06     88      0      0    124      W
+07     36     59     62     55      N
+08    212      0      0      0      A
+09      0      0      0    212      T
+10      0      0      0    212      T
+XX
+CC  Total Information Content: 17.0715221408565.
+CC  Factor Class: Unknown.
+XX
+RX  PUBMED: 15735639.
+XX
+//
