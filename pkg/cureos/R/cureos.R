@@ -680,7 +680,7 @@ read.ucsc.track <- function(track, sql=NULL) {
   end=min(c(grep("^ *KEY", sql), grep("^ *PRIMARY KEY", sql), grep("^)", sql)))
   if(start+1<end) {
     sql = sql[(start+1):(end-1)]
-    sql = sub("^ *`?*([^` ]*)`?.*$", "\\1", sql)
+    sql = sub("^ *`?([^` ]*)`?.*$", "\\1", sql)
     sql = sub("^txStart$", "start", sql)
     sql = sub("^txEnd$", "end", sql)
     sql = sub("^chromStart$", "start", sql)
