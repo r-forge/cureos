@@ -1002,7 +1002,13 @@ match.chr.intervals <- function(chr.vector, pos.vector, chrs, starts, ends) {
   for(i in 1:length(int)) {
     p=chr.vector==names(int)[i]
     res=match.intervals(pos.vector[p], int[[i]][,1], int[[i]][,2])
-    result[p]=ifelse(res>0,paste(names(int)[i], ":", int[[i]][res,1], "-", int[[i]][res,2], sep=""),NA)
+    # result[p]=ifelse(res>0,paste(names(int)[i], ":", int[[i]][res,1], "-", int[[i]][res,2], sep=""),NA)
+    # update (22 Feb 2012, 05:39pm)
+    # acces via res is wrong, since res contains entries with 0
+    # due to the 0 entries the start and end points of the matched
+    # intervals are shifted and lead to wrong entries in the result vector
+    res[res==0] <- NA
+    result[p] <- ifelse(!is.na(res), paste(names(int)[i], ":", int[[i]][res,1], "-", int[[i]][res,2], sep=""), NA)
   }
   result
 }
